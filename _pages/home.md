@@ -1,12 +1,12 @@
 ---
-title: "CVIR Lab - Home"
+title: "InRobots Lab - Home"
 layout: homelay
-excerpt: "CVIR Lab at CUST."
+excerpt: "InRobots Lab at JLU."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group as a part of Photoelectric measurement and Analysis Center at the [Changchun Uinveristy of Science and Technology(CUST)](http://sie.cust.edu.cn/). Our aim is to explore and understand the computer vision issues associated with robots. Research in this group mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially the outspace and planetary environment, and boost collaboration between people and devices.
+We are a dynamic research lab of School of Artificial Intelligence at the [Jilin Uinveristy](https://www.jlu.edu.cn/jgsz/yxsz.htm). Our aim is to explore and understand the computer vision,automation and control issues associated with robots. Research in this lab mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially for outspace and planetary environment, and boost collaboration between people and devices.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,11 +46,11 @@ We are a dynamic research group as a part of Photoelectric measurement and Analy
 
 
 
-To this end, we develop novel methods to detect objects on Mars for the rovers. We want to be able to build the perfect techniques to address the scientific questions we deem most important (see [Research](research)).
+To this end, we develop novel methods to segin reconfigurable modular robots and corrsponding scientific issues. We want to be able to build the perfect techniques to address the scientific questions we deem most important (see [Research](research)).
 
-We are located at CUST, the birthplace of optical engineering in China. As a part of part of Photoelectric measurement and Analysis Center, we exchange ideas and work with our colleagues on tpoics like Bionic optics, Bionic robot and Computational imaging, as well as other interesting yet challenging topics.
+We are located at JLU. As a part of School of Artificial Intelligence, we exchange ideas and work with our colleagues on tpoics like bionic robot and computr vision, as well as other interesting yet challenging topics.
 
- **We are looking for passionate new Lecturer, Master and Undergrate students to join the group** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are looking for passionate new postdoc, phd, Master and Undergrate students to join the lab** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 90px">
