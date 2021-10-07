@@ -6,30 +6,58 @@
   education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
 
 - name: Haiqiang Liu
-  photo: Jacky.jpg
+  photo: hqliu.jpg
   info: Phd student, started Oct 2020
-  email: lby@cust.edu.cn
+  email: @jlu.edu.cn
   number_educ: 1
   education1: Master with Jilin University
 
-- name: Yonggang Xiong
-  photo: ygxiong.jpg
+- name: Haoming Liu
+  photo: haomingliu.jpg
   info: Master student, started Sept 2021
-  email: yonggangxiong@cust.edu.cn
+  email: @jlu.edu.cn
   number_educ: 1
-  education1: Bsc with Changchun University of Science and Technology
+  education1: Bsc with Jilin University
 
-- name: Hong Yang
-  photo: hyang.jpg
+- name: Hua Shang
+  photo: hshang.jpg
   info: Master student, started Sept 2021
-  email: hongyang@cust.edu.cn
+  email: @jlu.edu.cn
   number_educ: 1
-  education1: Bsc with Changchun University of Science and Technology
-
+  education1: Bsc with Jilin University
+  
+- name: S Cheng
+  photo: scheng.jpg
+  info: Master student, started Sept 2021
+  email: @jlu.edu.cn
+  number_educ: 1
+  education1: Bsc with Jilin University
+  
+- name: Yurong Xi
+  photo: yurongxi.jpg
+  info: Master student, started Sept 2021
+  email: @jlu.edu.cn
+  number_educ: 1
+  education1: Bsc with Jilin University
+  
+- name: Zhenkun Gao
+  photo: zhenkungao.jpg
+  info: Master student, started Sept 2021
+  email: @jlu.edu.cn
+  number_educ: 1
+  education1: Bsc with Jilin University  
+  
+- name: Zhibing Xie
+  photo: zhibingxie.jpg
+  info: Master student, started Sept 2021
+  email: @jlu.edu.cn
+  number_educ: 1
+  education1: Bsc with Jilin University  
+  
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.alexcapshow.com/openings">openings</a> for more info
-  email: alexcapshow@gmail.com
+  info: See <a href="http://www.inrobotslab.com/openings">openings</a> for more info
+  email: meibaoyao@jlu.edu.cn
   number_educ: 0
   education1:
   education2:
