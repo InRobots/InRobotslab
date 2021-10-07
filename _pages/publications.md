@@ -1,7 +1,7 @@
 ---
-title: "CVIR Lab - Publications"
+title: "InRobots Lab - Publications"
 layout: gridlay
-excerpt: "CVIR Lab -- Publications."
+excerpt: "InRobots Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
