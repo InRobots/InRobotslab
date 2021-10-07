@@ -1,5 +1,5 @@
 ---
-title: "CVIR - People"
+title: "InRobots - People"
 layout: gridlay
 excerpt: "People"
 sitemap: false
