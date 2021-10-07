@@ -1,9 +1,9 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CVIR Lab at changchun university of science and technology."
+excerpt: "InRobots Lab at Jilin University."
 sitemap: false
-permalink: /cvirnews.html
+permalink: /InRobotsnews.html
 ---
 
 # News
