@@ -11,7 +11,7 @@ permalink: /people/
  **We are  looking for new lectures, Postdocs, Phd and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [staff](#staff), [Bachelor students](#bachelor-students), [Collaborators](#collaborators), [lab visitors](#former-visitors-BSc-MSc-students).
+Jump to [Staff](#staff), [Bachelor students](#bachelor-students), [Collaborators](#collaborators), [lab visitors](#former-visitors-BSc-MSc-students).
 
 
 
