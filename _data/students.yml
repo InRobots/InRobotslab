@@ -8,10 +8,18 @@
 #  education3:
 #  education4:
 
-- name: XXX
+- name: Shuang Cai
   photo: rock.jpg
   info: Working on open project 1 
   email: 
   number_educ: 0
   education1: 
+  
+- name: Rongxu Zhao
+  photo: rock.jpg
+  info: Working on open project 1 
+  email: 
+  number_educ: 0
+  education1: 
+
   
