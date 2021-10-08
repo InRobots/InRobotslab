@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research lab of School of Artificial Intelligence at the [Jilin Uinveristy](https://www.jlu.edu.cn/jgsz/yxsz.htm). Our aim is to explore and understand the computer vision,automation and control issues associated with robots. Research in this lab mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially for outspace and planetary environment, and boost collaboration between people and devices.
+We are a dynamic research lab of School of Artificial Intelligence at the [Jilin Uinveristy](http://global.jlu.edu.cn/). Our aim is to explore and understand the computer vision,automation and control issues associated with robots. Research in this lab mainly concerned with solving problems that require a mixture of computer vision, mechanics and robots to adapt to unknown and dynamic situations, especially for outspace and planetary environment, and boost collaboration between people and devices.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
