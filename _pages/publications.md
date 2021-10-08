@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1WvxKsAAAAAJ), [DBLPID](https://dblp.org/pid/227/5814))
+(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=8j2UgWwAAAAJ&hl=zh-CN), [DBLPID](https://dblp.org/pid/227/5814))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
