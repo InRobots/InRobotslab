@@ -16,7 +16,7 @@ We are always looking for new group members with passion, talent, and grit!
 ### Phd and Master projects
 If you are interested in pursuing a Phd or a Master degree at JLU, see [phdjlu.ai](https://sai.jlu.edu.cn/zsxx/bsyjs.htm) and [mastersjlu.ai](https://sai.jlu.edu.cn/zsxx/ssyjs.htm). We take phd and master students if we get exceptional applicants (this usually means very good grades).
 ### Bsc students for JLU students 
-If you are a Bsc student at CUST looking for a Bsc opening project, contact me (or any group member) per email or stop by my office.
+If you are a Bsc student at JLU looking for a Bsc opening project, contact me (or any group member) per email or stop by my office.
 
 
 <figure>
