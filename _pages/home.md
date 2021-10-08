@@ -50,7 +50,7 @@ To this end, we develop novel methods to segin reconfigurable modular robots and
 
 We are located at JLU. As a part of School of Artificial Intelligence, we exchange ideas and work with our colleagues on tpoics like bionic robot and computr vision, as well as other interesting yet challenging topics.
 
- **We are looking for passionate new postdoc, phd, Master and Undergrate students to join the lab** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+ **We are looking for passionate new postdoc, Phd, Master and Undergrate students to join the lab** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cust-logo.png" style="width: 90px">
