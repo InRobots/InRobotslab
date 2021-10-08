@@ -7,53 +7,74 @@
 
 - name: Haiqiang Liu
   photo: hqliu.jpg
-  info: Phd student, started Oct 2020
+  info: Phd student, started Oct 2019
+  email: xx@jlu.edu.cn
+  number_educ: 1
+  education1: Master with Jilin University
+
+- name: Yan Yu
+  photo: YanYu.jpg
+  info: Phd student, started Oct 2021
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Master with Jilin University
 
 - name: Haoming Liu
   photo: haomingliu.png
-  info: Master student, started Sept 2021
+  info: Master student, started Sept 2019
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University
 
 - name: Hua Shang
   photo: hshang.jpg
-  info: Master student, started Sept 2021
+  info: Master student, started Sept 2019
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University
   
-- name: S Cheng
+- name: Song Cheng
   photo: scheng.jpg
-  info: Master student, started Sept 2021
+  info: Master student, started Sept 2020
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University
   
 - name: Yurong Xi
   photo: yurongxi.jpg
-  info: Master student, started Sept 2021
+  info: Master student, started Sept 2020
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University
   
 - name: Zhenkun Gao
   photo: zhenkungao.jpg
-  info: Master student, started Sept 2021
+  info: Master student, started Sept 2020
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University  
   
 - name: Zhibing Xie
   photo: zhibingxie.jpg
-  info: Master student, started Sept 2021
+  info: Master student, started Sept 2020
   email: xx@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University  
-  
+
+- name: Yifan Wang
+  photo: YifanWang.jpg
+  info: Master student, started Oct 2021
+  email: xx@jlu.edu.cn
+  number_educ: 1
+  education1: Bsc with Jilin University 
+
+- name: Pengzhi Tian
+  photo: PengzhiTian.jpg
+  info: Master student, started Oct 2021
+  email: xx@jlu.edu.cn
+  number_educ: 1
+  education1: Bsc with Jilin University 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.inrobotslab.com/openings">openings</a> for more info
