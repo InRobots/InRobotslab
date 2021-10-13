@@ -53,7 +53,7 @@ We are located at JLU. As a part of School of Artificial Intelligence, we exchan
  **We are looking for passionate new postdoc, Phd, Master and Undergrate students to join the lab** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jlulogo.png" style="width: 190px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailogo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jlulogo.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailogo.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/irllogos1.jpg" style="width: 150px">
 </figure>
