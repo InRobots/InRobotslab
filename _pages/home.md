@@ -55,5 +55,5 @@ We are located at JLU. As a part of School of Artificial Intelligence, we exchan
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jlulogo.png" style="width: 190px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailogo.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailogo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/irllogos1.jpg" style="width: 100px">
 </figure>
