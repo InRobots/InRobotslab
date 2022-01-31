@@ -14,6 +14,6 @@ permalink: /datasets/
 
 #### Panoramic image segmentation dataset on Mars.
 
-<b>Description:</b> The first panorama dataset of unstructured Martian terrains for semantic and instance segmentation. 
+<b>Description:</b> The first panorama dataset of unstructured Martian terrains for semantic and instance segmentation.  
 <b>Download:</b> [MarsScapes](https://github.com/InRobots/MarsScapes).  
 <b>Reference:</b>  
