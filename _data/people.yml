@@ -36,9 +36,9 @@
 - name: Song Cheng
   photo: scheng.jpg
   info: Master student, started Sept 2020
-  email: xx@jlu.edu.cn
+  email: chengsong20111110@163.com
   number_educ: 1
-  education1: Bsc with Jilin University
+  education1: Bsc with North China Electric University
   
 - name: Yurong Xi
   photo: yurongxi.jpg
@@ -50,9 +50,9 @@
 - name: Zhenkun Gao
   photo: zhenkungao.jpg
   info: Master student, started Sept 2020
-  email: xx@jlu.edu.cn
+  email: gaozk20@mails.jlu.edu.cn
   number_educ: 1
-  education1: Bsc with Jilin University  
+  education1: Harbin University of Science and Technology  
   
 - name: Zhibing Xie
   photo: zhibingxie.jpg
@@ -61,19 +61,19 @@
   number_educ: 1
   education1: Bsc with Jilin University  
 
-- name: Yifan 
+- name: Yifan Wang
   photo: YifanWang.jpg
   info: Master student, started Oct 2021
-  email: yifanw21@jlu.edu.cn
+  email: yifanw21@mails.jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University 
 
 - name: Pengzhi Tian
   photo: PengzhiTian.jpg
   info: Master student, started Oct 2021
-  email: xx@jlu.edu.cn
+  email: tianpz21@mails.jlu.edu.cn
   number_educ: 1
-  education1: Bsc with Jilin University 
+  education1: Bsc with Harbin Institute of Technology(WeiHai)
 
 - name: "This could be you !"
   photo: rock.jpg
