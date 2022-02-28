@@ -8,28 +8,30 @@
 - name: Haiqiang Liu
   photo: hqliu.jpg
   info: Phd student, started Oct 2019
-  email: xx@jlu.edu.cn
-  number_educ: 1
-  education1: Master with Jilin University
+  email: hqliu20@mails.jlu.edu.cn
+  number_educ: 2
+  education1: Bsc with Civil Aviation University of China
+  education2: Master with Jilin University
 
 - name: Yan Yu
   photo: YanYu.jpg
   info: Phd student, started Oct 2021
-  email: xx@jlu.edu.cn
-  number_educ: 1
-  education1: Master with Jilin University
+  email: yuyan21@mails.jlu.edu.cn
+  number_educ: 2
+  education1: Bsc with Southwest Petroleum University
+  education2: Master with Jilin University
 
 - name: Haoming Liu
   photo: haomingliu.png
   info: Master student, started Sept 2019
-  email: xx@jlu.edu.cn
+  email: lhm20@mails.jlu.edu.cn
   number_educ: 1
-  education1: Bsc with Jilin University
+  education1: Bsc with NEEPU
 
 - name: Hua Shang
   photo: hshang.jpg
   info: Master student, started Sept 2019
-  email: xx@jlu.edu.cn
+  email: shanghua19 @mails.jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University
   
@@ -42,10 +44,10 @@
   
 - name: Yurong Xi
   photo: yurongxi.jpg
-  info: Master student, started Sept 2020
-  email: xx@jlu.edu.cn
+  info: Master student, started Sept 2019
+  email: email:xiyr19@mails.jlu.edu.cn
   number_educ: 1
-  education1: Bsc with Jilin University
+  education1: Bsc with Shaanxi Normal University
   
 - name: Zhenkun Gao
   photo: zhenkungao.jpg
@@ -56,8 +58,8 @@
   
 - name: Zhibing Xie
   photo: zhibingxie.jpg
-  info: Master student, started Sept 2020
-  email: xx@jlu.edu.cn
+  info: Master student, started Sept 2019
+  email: xiezb19@jlu.edu.cn
   number_educ: 1
   education1: Bsc with Jilin University  
 
