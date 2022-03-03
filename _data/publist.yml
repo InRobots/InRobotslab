@@ -96,3 +96,13 @@
     display:  IEEE International Conference on Robotics and Automation (ICRA), (2020)
   highlight: 0
   news2:
+  
+- title: A reconfiguration strategy for modular robots using origami folding
+  image: dummy.png
+  description: ""
+  authors: M Yao, CH Belke, H Cui, J Paik
+  link:
+    url: https://journals.sagepub.com/doi/pdf/10.1177/0278364918815757
+    display:  The International Journal of Robotics Research 38 (1), 73-89
+  highlight: 0
+  news2:
