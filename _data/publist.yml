@@ -1,11 +1,11 @@
 - title: "A reconfiguration strategy for modular robots using origami folding"
   image: dummy.png
-  description: ""
+  description: "Reconfigurability in versatile systems of modular robots is achieved by changing the morphology of the overall structure as well as by connecting and disconnecting modules. Recurrent connectivity changes can cause misalignment that leads to mechanical failure of the system. This paper presents a new approach to reconfiguration, inspired by the art of origami, that eliminates connectivity changes during transformation. Our method consists of an energy-optimal reconfiguration planner that generates an initial 2D assembly pattern and an actuation sequence of the modular units, both resulting in minimum energy consumption. The algorithmic framework includes two approaches, an automatic modeling algorithm as well as a heuristic algorithm. We further demonstrate the effectiveness of our method by applying the algorithms to Mori, a modular origami robot, in simulation. Our results show that the heuristic algorithm yields reconfiguration schemes with high quality, compared with the automatic modeling algorithm, simultaneously saving a considerable amount of computational time and effort."
   authors: Meibao Yao, Christoph H Belke, Hutao Cui, Jamie Paik
   link:
     url: https://journals.sagepub.com/doi/pdf/10.1177/0278364918815757
     display:  The International Journal of Robotics Research 38 (1), 73-89
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "A fast terminal sliding mode control scheme with time-varying sliding mode surfaces"
@@ -20,12 +20,12 @@
 
 - title: "A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover"
   image: dummy.png
-  description: ""
+  description: "This article presents two kernel-based rock detection methods for a Mars rover. Rock detection on planetary surfaces is particularly pivotal for planetary vehicles regarding navigation and obstacle avoidance. However, the diverse morphologies of Martian rocks, the sparsity of pixel-wise features, and engineering constraints are great challenges to current pixel-wise object detection methods, resulting in inaccurate and delayed object location and recognition. We therefore propose a region-wise rock detection framework and design two detection algorithms, kernel principle component analysis (KPCA)-based rock detection (KPRD) and kernel low-rank representation (KLRR)-based rock detection (KLRD), using hypotheses of feature and sub-spatial separability. KPRD is based on KPCA and is expert in real-time detection yet with less accurate performance. KLRD is based on KPRD with KLRR which can generate more precise rock detection results with less delay. To validate the efficiency of the proposed methods, we build a small-scale Martian rock dataset, MarsData, containing various rocks. Preliminary experimental results show that our methods are efficient in dealing with complex images containing rocks, shadows, and gravel. The code and data are available at: https://github.com/CVIR-Lab/MarsData."
   authors: Xueming Xiao, Meibao Yao, Haiqiang Liu, Jiake Wang, Lei Zhang, Yuegang Fu
   link:
     url: https://doi.org/10.1109/TNNLS.2021.3131206
     display:  IEEE Transactions on Neural Networks and Learning Systems
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "A two-time scale control scheme for on-orbit manipulation of large flexible module"
@@ -90,12 +90,12 @@
 
 - title: "Safe Mars landing strategy: Towards lidar-based high altitude hazard detection"
   image: twostage.png
-  description: This paper presents a high altitude hazard detection method for Mars landing. Towards safe landing requirements for future missions, hazard detection should be triggered as soon as possible. We therefore proposed a lidar based high altitude hazard detection approach, consisting of two main procedures, Terrain reconstruction and Hazard mapping. An interpolation based terrain reconstruction algorithm is proposed to model the datum surface of landing region.
+  description: ""
   authors: Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
   link:
     url: https://doi.org/10.1016/j.asr.2019.01.005
     display: Advances in Space Research 63, 8 (2019)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Crater edge-based flexible autonomous navigation for planetary landing"
@@ -110,12 +110,12 @@
 
 - title: "Autonomous rock detection on mars through region contrast"
   image: rc.png
-  description: In this paper, we present a new autonomous rock detection approach through region contrast. New method deals with this issue in region level, which will significantly reduce the computational cost. Only low-level features are measured and a more reliable method is further proposed by introducing spatial factor and background similarity to the region contrast. 
+  description: ""
   authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
   link:
     url: https://doi.org/10.1016/j.asr.2017.04.028
     display: Advances in Space Research 60, 3 (2017)
-  highlight: 1
+  highlight: 0
   news2: 
 
 - title: "Auto rock detection via sparse-based background modeling for mars rover"
