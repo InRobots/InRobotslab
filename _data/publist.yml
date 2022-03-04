@@ -81,13 +81,10 @@
 - title: "An Adaptive Backstepping-Based Controller for Trajectory Tracking of Wheeled Robots"
   image: dummy.png
   description: ""
-- title: A reconfiguration strategy for modular robots using origami folding
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Christoph H Belke, Hutao Cui, Jamie Paik
+  authors: Song Cheng, Haoming Liu, Meibao Yao
   link:
-    url: https://journals.sagepub.com/doi/pdf/10.1177/0278364918815757
-    display:  The International Journal of Robotics Research 38 (1), 73-89
+    url: https://ieeexplore.ieee.org/document/9468124
+    display:  2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 539-544
   highlight: 0
   news2:
 
