@@ -1,49 +1,30 @@
-- title: "Robust plane fitting algorithm for landing hazard detection"
-  image: planefit.png
-  description: An innovative three dimensional hazard detection algorithm is proposed for a planetary safe landing mission. A novel robust scale estimator is proposed, which can achieve a breakdown point of more than 50 percentage.
-  authors: Xueming Xiao, Hutao Cui, Yang Tian
-  link:
-    url: https://doi.org/10.1109/TAES.2015.140378
-    display: IEEE Transactions on Aerospace and Electronic Systems 51, 4 (2015)
-  highlight: 1
-  news2:
-
-- title: "Autonomous rock detection on mars through region contrast"
-  image: rc.png
-  description: In this paper, we present a new autonomous rock detection approach through region contrast. New method deals with this issue in region level, which will significantly reduce the computational cost. Only low-level features are measured and a more reliable method is further proposed by introducing spatial factor and background similarity to the region contrast. 
-  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
-  link:
-    url: https://doi.org/10.1016/j.asr.2017.04.028
-    display: Advances in Space Research 60, 3 (2017)
-  highlight: 1
-  news2: 
-
-- title: "Safe Mars landing strategy: Towards lidar-based high altitude hazard detection"
-  image: twostage.png
-  description: This paper presents a high altitude hazard detection method for Mars landing. Towards safe landing requirements for future missions, hazard detection should be triggered as soon as possible. We therefore proposed a lidar based high altitude hazard detection approach, consisting of two main procedures, Terrain reconstruction and Hazard mapping. An interpolation based terrain reconstruction algorithm is proposed to model the datum surface of landing region.
-  authors: Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
-  link:
-    url: https://doi.org/10.1016/j.asr.2019.01.005
-    display: Advances in Space Research 63, 8 (2019)
-  highlight: 1
-
-- title: "Auto rock detection via sparse-based background modeling for mars rover"
-  image: 5dof.png
-  description: We propose a novel auto rock detection scheme via sparse based background modeling for planetary rover. Instead of pixel level image processing and pre training, we deal with the detection issue by region contrast enhancement. Our method consists of a rough detection algorithm to auto-label conservative background regions and a background modeling algorithm to precisely detect rocks. Background is reconstructed in feature space with the labeled regions as dictionary via sparse representation. Contrast map is enhanced by the error of original image and reconstructed background. Afterwards, rock is directly segmented by an auto threshold.
-  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
-  link:
-    url: https://doi.org/10.1109/CEC.2018.8477665
-    display:  IEEE Congress on Evolutionary Computation (CEC). IEEE, 2018
-  highlight: 1
-  news2: 
-
-- title: Multi-scale rock detection on Mars
+- title: A reconfiguration strategy for modular robots using origami folding
   image: dummy.png
   description: ""
-  authors: Guoqing Li, Yunhai Geng, Xueming Xiao
+  authors: Meibao Yao, Christoph H Belke, Hutao Cui, Jamie Paik
   link:
-    url: https://doi.org/10.1007/s11432-017-9277-x
-    display:  Science China Information Sciences 61, 10 (2017)
+    url: https://journals.sagepub.com/doi/pdf/10.1177/0278364918815757
+    display:  The International Journal of Robotics Research 38 (1), 73-89
+  highlight: 0
+  news2:
+
+- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
+  image: dummy.png
+  description: ""
+  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
+  link:
+    url: https://doi.org/10.1016/j.jfranklin.2021.05.006
+    display:  Journal of the Franklin Institute,358,10 (2021)
+  highlight: 0
+  news2:
+
+- title: A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover
+  image: dummy.png
+  description: ""
+  authors: Xueming Xiao, Meibao Yao, Haiqiang Liu, Jiake Wang, Lei Zhang, Yuegang Fu
+  link:
+    url: https://doi.org/10.1109/TNNLS.2021.3131206
+    display:  IEEE Transactions on Neural Networks and Learning Systems
   highlight: 0
   news2:
 
@@ -57,16 +38,6 @@
   highlight: 0
   news2:
 
-- title: Towards peak torque minimization for modular self-folding robots
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Hutao Cui, Xueming Xiao, Christoph H Belke, Jamie Paik
-  link:
-    url: https://doi.org/10.1109/IROS.2018.8593648
-    display:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (2018)
-  highlight: 0
-  news2:
-  
 - title: Optimal distribution of active modules in reconfiguration planning of modular robots
   image: dummy.png
   description: ""
@@ -76,17 +47,7 @@
     display:  Journal of Mechanisms and Robotics,11,1 (2019)
   highlight: 0
   news2:
-  
-- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
-  link:
-    url: https://doi.org/10.1016/j.jfranklin.2021.05.006
-    display:  Journal of the Franklin Institute,358,10 (2021)
-  highlight: 0
-  news2:
-  
+
 - title: An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots
   image: dummy.png
   description: ""
@@ -96,34 +57,24 @@
     display:  IEEE International Conference on Robotics and Automation (ICRA), (2020)
   highlight: 0
   news2:
-  
-- title: A reconfiguration strategy for modular robots using origami folding
+
+- title: Svrat: A Skeleton-Based Intelligent Monitoring System for Violence Recognition and Abuser Tracking
   image: dummy.png
   description: ""
-  authors: Meibao Yao, Christoph H Belke, Hutao Cui, Jamie Paik
+  authors: Haiqiang Liu, Meibao Yao, Linlin Wang
   link:
-    url: https://journals.sagepub.com/doi/pdf/10.1177/0278364918815757
-    display:  The International Journal of Robotics Research 38 (1), 73-89
+    url: https://doi.org/10.1109/ICME51207.2021.9428364
+    display:  2021 IEEE International Conference on Multimedia and Expo (ICME), 1-6
   highlight: 0
   news2:
-  
-- title: Auto rock detection via sparse-based background modeling for mars rover
+
+- title: Towards peak torque minimization for modular self-folding robots
   image: dummy.png
   description: ""
-  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
+  authors: Meibao Yao, Hutao Cui, Xueming Xiao, Christoph H Belke, Jamie Paik
   link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8477665
-    display:  2018 IEEE Congress on Evolutionary Computation (CEC), 1-6
-  highlight: 0
-  news2:
-  
-- title: Crater edge-based flexible autonomous navigation for planetary landing
-  image: dummy.png
-  description: ""
-  authors: Yang Tian, Meng Yu, Meibao Yao, Xiangyu Huang
-  link:
-    url: https://sci-hub.yncjkj.com/10.1017/s0373463318000966
-    display:  The Journal of Navigation 72 (3), 649-668
+    url: https://doi.org/10.1109/IROS.2018.8593648
+    display:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (2018)
   highlight: 0
   news2:
   
@@ -136,26 +87,46 @@
     display:  2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 539-544
   highlight: 0
   news2:
-  
-- title: Svrat: A Skeleton-Based Intelligent Monitoring System for Violence Recognition and Abuser Tracking
+
+- title: "Safe Mars landing strategy: Towards lidar-based high altitude hazard detection"
+  image: twostage.png
+  description: This paper presents a high altitude hazard detection method for Mars landing. Towards safe landing requirements for future missions, hazard detection should be triggered as soon as possible. We therefore proposed a lidar based high altitude hazard detection approach, consisting of two main procedures, Terrain reconstruction and Hazard mapping. An interpolation based terrain reconstruction algorithm is proposed to model the datum surface of landing region.
+  authors: Xueming Xiao, Meibao Yao, Hutao Cui, Yuegang Fu
+  link:
+    url: https://doi.org/10.1016/j.asr.2019.01.005
+    display: Advances in Space Research 63, 8 (2019)
+  highlight: 1
+  news2:
+
+- title: Crater edge-based flexible autonomous navigation for planetary landing
   image: dummy.png
   description: ""
-  authors: Haiqiang Liu, Meibao Yao, Linlin Wang
+  authors: Yang Tian, Meng Yu, Meibao Yao, Xiangyu Huang
   link:
-    url: https://doi.org/10.1109/ICME51207.2021.9428364
-    display:  2021 IEEE International Conference on Multimedia and Expo (ICME), 1-6
+    url: https://sci-hub.yncjkj.com/10.1017/s0373463318000966
+    display:  The Journal of Navigation 72 (3), 649-668
   highlight: 0
   news2:
-  
-- title: A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover
-  image: dummy.png
-  description: ""
-  authors: Xueming Xiao, Meibao Yao, Haiqiang Liu, Jiake Wang, Lei Zhang, Yuegang Fu
+
+- title: "Autonomous rock detection on mars through region contrast"
+  image: rc.png
+  description: In this paper, we present a new autonomous rock detection approach through region contrast. New method deals with this issue in region level, which will significantly reduce the computational cost. Only low-level features are measured and a more reliable method is further proposed by introducing spatial factor and background similarity to the region contrast. 
+  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yang Tian
   link:
-    url: https://doi.org/10.1109/TNNLS.2021.3131206
-    display:  IEEE Transactions on Neural Networks and Learning Systems
-  highlight: 0
-  news2:
+    url: https://doi.org/10.1016/j.asr.2017.04.028
+    display: Advances in Space Research 60, 3 (2017)
+  highlight: 1
+  news2: 
+
+- title: "Auto rock detection via sparse-based background modeling for mars rover"
+  image: 5dof.png
+  description: We propose a novel auto rock detection scheme via sparse based background modeling for planetary rover. Instead of pixel level image processing and pre training, we deal with the detection issue by region contrast enhancement. Our method consists of a rough detection algorithm to auto-label conservative background regions and a background modeling algorithm to precisely detect rocks. Background is reconstructed in feature space with the labeled regions as dictionary via sparse representation. Contrast map is enhanced by the error of original image and reconstructed background. Afterwards, rock is directly segmented by an auto threshold.
+  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
+  link:
+    url: https://doi.org/10.1109/CEC.2018.8477665
+    display:  IEEE Congress on Evolutionary Computation (CEC). IEEE, 2018
+  highlight: 1
+  news2: 
 
 - title: The Premise of Automatic Four-wheel Alignment: Intelligent Identification and Processing of Rim Targets
   image: dummy.png
@@ -166,7 +137,7 @@
     display:  Journal of Physics: Conference Series 2203 (1), 012007
   highlight: 0
   news2:
-  
+
 - title: A Configuration Design Method for Reconfigurable Robots Based on Terrain Understanding
   image: dummy.png
   description: ""
@@ -174,5 +145,35 @@
   link:
     url: https://iopscience.iop.org/article/10.1088/1742-6596/2203/1/012023/meta
     display:  Journal of Physics: Conference Series 2203 (1), 012023
+  highlight: 0
+  news2:
+  
+- title: "Robust plane fitting algorithm for landing hazard detection"
+  image: planefit.png
+  description: An innovative three dimensional hazard detection algorithm is proposed for a planetary safe landing mission. A novel robust scale estimator is proposed, which can achieve a breakdown point of more than 50 percentage.
+  authors: Xueming Xiao, Hutao Cui, Yang Tian
+  link:
+    url: https://doi.org/10.1109/TAES.2015.140378
+    display: IEEE Transactions on Aerospace and Electronic Systems 51, 4 (2015)
+  highlight: 1
+  news2:
+
+- title: Multi-scale rock detection on Mars
+  image: dummy.png
+  description: ""
+  authors: Guoqing Li, Yunhai Geng, Xueming Xiao
+  link:
+    url: https://doi.org/10.1007/s11432-017-9277-x
+    display:  Science China Information Sciences 61, 10 (2017)
+  highlight: 0
+  news2:
+
+- title: Auto rock detection via sparse-based background modeling for mars rover
+  image: dummy.png
+  description: ""
+  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8477665
+    display:  2018 IEEE Congress on Evolutionary Computation (CEC), 1-6
   highlight: 0
   news2:
