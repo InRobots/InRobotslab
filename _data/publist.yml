@@ -1,4 +1,4 @@
-- title: A reconfiguration strategy for modular robots using origami folding
+- title: "A reconfiguration strategy for modular robots using origami folding"
   image: dummy.png
   description: ""
   authors: Meibao Yao, Christoph H Belke, Hutao Cui, Jamie Paik
@@ -8,7 +8,7 @@
   highlight: 0
   news2:
 
-- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
+- title: "A fast terminal sliding mode control scheme with time-varying sliding mode surfaces"
   image: dummy.png
   description: ""
   authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
@@ -18,7 +18,7 @@
   highlight: 0
   news2:
 
-- title: A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover
+- title: "A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover"
   image: dummy.png
   description: ""
   authors: Xueming Xiao, Meibao Yao, Haiqiang Liu, Jiake Wang, Lei Zhang, Yuegang Fu
@@ -28,7 +28,7 @@
   highlight: 0
   news2:
 
-- title: A two-time scale control scheme for on-orbit manipulation of large flexible module
+- title: "A two-time scale control scheme for on-orbit manipulation of large flexible module"
   image: dummy.png
   description: ""
   authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
@@ -38,7 +38,7 @@
   highlight: 0
   news2:
 
-- title: Optimal distribution of active modules in reconfiguration planning of modular robots
+- title: "Optimal distribution of active modules in reconfiguration planning of modular robots"
   image: dummy.png
   description: ""
   authors: Meibao Yao, Xueming Xiao, Christoph H Belke, Hutao Cui, Jamie Paik
@@ -48,7 +48,7 @@
   highlight: 0
   news2:
 
-- title: An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots
+- title: "An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots"
   image: dummy.png
   description: ""
   authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui, Jamie Paik
@@ -58,7 +58,7 @@
   highlight: 0
   news2:
 
-- title: Svrat A Skeleton-Based Intelligent Monitoring System for Violence Recognition and Abuser Tracking
+- title: "Svrat: A Skeleton-Based Intelligent Monitoring System for Violence Recognition and Abuser Tracking"
   image: dummy.png
   description: ""
   authors: Haiqiang Liu, Meibao Yao, Linlin Wang
@@ -68,7 +68,7 @@
   highlight: 0
   news2:
 
-- title: Towards peak torque minimization for modular self-folding robots
+- title: "Towards peak torque minimization for modular self-folding robots"
   image: dummy.png
   description: ""
   authors: Meibao Yao, Hutao Cui, Xueming Xiao, Christoph H Belke, Jamie Paik
@@ -78,7 +78,7 @@
   highlight: 0
   news2:
   
-- title: An Adaptive Backstepping-Based Controller for Trajectory Tracking of Wheeled Robots
+- title: "An Adaptive Backstepping-Based Controller for Trajectory Tracking of Wheeled Robots"
   image: dummy.png
   description: ""
 - title: A reconfiguration strategy for modular robots using origami folding
@@ -88,86 +88,6 @@
   link:
     url: https://journals.sagepub.com/doi/pdf/10.1177/0278364918815757
     display:  The International Journal of Robotics Research 38 (1), 73-89
-  highlight: 0
-  news2:
-
-- title: A fast terminal sliding mode control scheme with time-varying sliding mode surfaces
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
-  link:
-    url: https://doi.org/10.1016/j.jfranklin.2021.05.006
-    display:  Journal of the Franklin Institute,358,10 (2021)
-  highlight: 0
-  news2:
-
-- title: A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover
-  image: dummy.png
-  description: ""
-  authors: Xueming Xiao, Meibao Yao, Haiqiang Liu, Jiake Wang, Lei Zhang, Yuegang Fu
-  link:
-    url: https://doi.org/10.1109/TNNLS.2021.3131206
-    display:  IEEE Transactions on Neural Networks and Learning Systems
-  highlight: 0
-  news2:
-
-- title: A two-time scale control scheme for on-orbit manipulation of large flexible module
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui
-  link:
-    url: https://doi.org/10.1016/j.actaastro.2018.09.020
-    display:  Acta Astronautica 154, (2019)
-  highlight: 0
-  news2:
-
-- title: Optimal distribution of active modules in reconfiguration planning of modular robots
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Xueming Xiao, Christoph H Belke, Hutao Cui, Jamie Paik
-  link:
-    url: https://doi.org/10.1115/1.4041972
-    display:  Journal of Mechanisms and Robotics,11,1 (2019)
-  highlight: 0
-  news2:
-
-- title: An Actuation Fault Tolerance Approach to Reconfiguration Planning of Modular Self-folding Robots
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Xueming Xiao, Yang Tian, Hutao Cui, Jamie Paik
-  link:
-    url: https://doi.org/10.1109/ICRA40945.2020.9196574
-    display:  IEEE International Conference on Robotics and Automation (ICRA), (2020)
-  highlight: 0
-  news2:
-
-- title: Svrat: A Skeleton-Based Intelligent Monitoring System for Violence Recognition and Abuser Tracking
-  image: dummy.png
-  description: ""
-  authors: Haiqiang Liu, Meibao Yao, Linlin Wang
-  link:
-    url: https://doi.org/10.1109/ICME51207.2021.9428364
-    display:  2021 IEEE International Conference on Multimedia and Expo (ICME), 1-6
-  highlight: 0
-  news2:
-
-- title: Towards peak torque minimization for modular self-folding robots
-  image: dummy.png
-  description: ""
-  authors: Meibao Yao, Hutao Cui, Xueming Xiao, Christoph H Belke, Jamie Paik
-  link:
-    url: https://doi.org/10.1109/IROS.2018.8593648
-    display:  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (2018)
-  highlight: 0
-  news2:
-  
-- title: An Adaptive Backstepping-Based Controller for Trajectory Tracking of Wheeled Robots
-  image: dummy.png
-  description: ""
-  authors: Song Cheng, Haiqiang Liu, Meibao Yao
-  link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9468124
-    display:  2021 4th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS), 539-544
   highlight: 0
   news2:
 
@@ -181,7 +101,7 @@
   highlight: 1
   news2:
 
-- title: Crater edge-based flexible autonomous navigation for planetary landing
+- title: "Crater edge-based flexible autonomous navigation for planetary landing"
   image: dummy.png
   description: ""
   authors: Yang Tian, Meng Yu, Meibao Yao, Xiangyu Huang
@@ -211,7 +131,7 @@
   highlight: 1
   news2: 
 
-- title: The Premise of Automatic Four-wheel Alignment: Intelligent Identification and Processing of Rim Targets
+- title: "The Premise of Automatic Four-wheel Alignment: Intelligent Identification and Processing of Rim Targets"
   image: dummy.png
   description: ""
   authors: Yifan Wang, Meibao Yao
@@ -221,7 +141,7 @@
   highlight: 0
   news2:
 
-- title: A Configuration Design Method for Reconfigurable Robots Based on Terrain Understanding
+- title: "A Configuration Design Method for Reconfigurable Robots Based on Terrain Understanding"
   image: dummy.png
   description: ""
   authors: Hua Shang, Yurong Xi, Zhibing Xie, Xueming Xiao, Meibao Yao
@@ -241,7 +161,7 @@
   highlight: 1
   news2:
 
-- title: Multi-scale rock detection on Mars
+- title: "Multi-scale rock detection on Mars"
   image: dummy.png
   description: ""
   authors: Guoqing Li, Yunhai Geng, Xueming Xiao
@@ -251,12 +171,3 @@
   highlight: 0
   news2:
 
-- title: Auto rock detection via sparse-based background modeling for mars rover
-  image: dummy.png
-  description: ""
-  authors: Xueming Xiao, Hutao Cui, Meibao Yao, Yuegang Fu, Wanqiang Qi
-  link:
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8477665
-    display:  2018 IEEE Congress on Evolutionary Computation (CEC), 1-6
-  highlight: 0
-  news2:
