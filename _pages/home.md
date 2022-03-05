@@ -55,5 +55,5 @@ Located at JLU, as a part of School of Artificial Intelligence, we exchange idea
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jlulogo.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ailogo.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/irllogos1.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/irllogos1.jpg" style="width: 110px">
 </figure>
