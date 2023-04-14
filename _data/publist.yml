@@ -158,23 +158,5 @@
   highlight: 0
   news2:
   
-- title: "Robust plane fitting algorithm for landing hazard detection"
-  image: planefit.png
-  description: An innovative three dimensional hazard detection algorithm is proposed for a planetary safe landing mission. A novel robust scale estimator is proposed, which can achieve a breakdown point of more than 50 percentage.
-  authors: Xueming Xiao, Hutao Cui, Yang Tian
-  link:
-    url: https://doi.org/10.1109/TAES.2015.140378
-    display: IEEE Transactions on Aerospace and Electronic Systems 51, 4 (2015)
-  highlight: 1
-  news2:
 
-- title: "Multi-scale rock detection on Mars"
-  image: dummy.png
-  description: ""
-  authors: Guoqing Li, Yunhai Geng, Xueming Xiao
-  link:
-    url: https://doi.org/10.1007/s11432-017-9277-x
-    display:  Science China Information Sciences 61, 10 (2017)
-  highlight: 0
-  news2:
 
