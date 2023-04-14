@@ -28,12 +28,12 @@
   number_educ: 1
   education1: Bsc with NEEPU
 
-- name: Hua Shang
-  photo: hshang.jpg
-  info: Master student, started Sept 2019
-  email: shanghua19 @mails.jlu.edu.cn
-  number_educ: 1
-  education1: Bsc with Jilin University
+#- name: Hua Shang
+#  photo: hshang.jpg
+#  info: Master student, started Sept 2019
+#  email: shanghua19 @mails.jlu.edu.cn
+#  number_educ: 1
+#  education1: Bsc with Jilin University
   
 - name: Song Cheng
   photo: scheng.jpg
@@ -42,12 +42,12 @@
   number_educ: 1
   education1: Bsc with North China Electric University
   
-- name: Yurong Xi
-  photo: yurongxi.jpg
-  info: Master student, started Sept 2019
-  email: email:xiyr19@mails.jlu.edu.cn
-  number_educ: 1
-  education1: Bsc with Shaanxi Normal University
+#- name: Yurong Xi
+#  photo: yurongxi.jpg
+#  info: Master student, started Sept 2019
+#  email: email:xiyr19@mails.jlu.edu.cn
+#  number_educ: 1
+#  education1: Bsc with Shaanxi Normal University
   
 - name: Zhenkun Gao
   photo: zhenkungao.jpg
@@ -56,12 +56,12 @@
   number_educ: 1
   education1: Bsc with Harbin University of Science and Technology  
   
-- name: Zhibing Xie
-  photo: zhibingxie.jpg
-  info: Master student, started Sept 2019
-  email: xiezb19@jlu.edu.cn
-  number_educ: 1
-  education1: Bsc with Jilin University  
+#- name: Zhibing Xie
+#  photo: zhibingxie.jpg
+#  info: Master student, started Sept 2019
+#  email: xiezb19@jlu.edu.cn
+#  number_educ: 1
+#  education1: Bsc with Jilin University  
 
 - name: Yifan Wang
   photo: YifanWang.jpg
