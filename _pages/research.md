@@ -13,7 +13,7 @@ Our overarching goal is to explore the complex coupling entwinement for robots i
 Here are some themes and techniques that we are currently working on:
 
 **Semantic segmentation for planetary rover and orbiter.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.jpg){: style="width: 35%; float: left; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 35%; float: left; margin: 0px"}
 
 
 **Reconfigurable modular robot.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/ugv.jpg){: style="width: 25%; float: right; margin: 0px"}
