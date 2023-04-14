@@ -8,13 +8,11 @@ permalink: /research/
 
 # Research
 
-Our overarching goal is to explore space science. To do so, we use and develop novel techniques and tools to .
+Our overarching goal is to explore the complex coupling entwinement for robots in their surroundings. To this end, we develop novel techniques and tools that enable us to address the questions we find most interesting. We further have group members with different background and interests, working together on robotics, computer vision, reinforcement learning and beyond.
 
-Our goal is to develop techniques that enable us to address the questions we find most interesting. We further have group members with different background and interests, working together on computer vision and robots.
+Here are some themes and techniques that we are currently working on:
 
-Here are some themes and techniques that we currently work on:
-
-**Object segmentation for planetary rover and obriter.** .
+**Semantic segmentation for planetary rover and orbiter.**
 
 
 **Reconfigurable modular robot.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/ugv.jpg){: style="width: 25%; float: right; margin: 0px"}
