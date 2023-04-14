@@ -1,5 +1,5 @@
 - title: "RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation"
-  image: dummy.png
+  image: rockformer.png
   description: " The first U-shaped Transformer framework for Mars rock segmentation, consisting of a hierarchical encoder–decoder architecture with a feature refining module (FRM) connected between them."
   authors: Haiqaing Liu, Meibao Yao, Xueming Xiao, Yonggang Xiong
   link:
@@ -9,7 +9,7 @@
   news2:
   
 - title: "A reconfiguration strategy for modular robots using origami folding"
-  image: dummy.png
+  image: ijrr.png
   description: "Reconfigurability in versatile systems of modular robots is achieved by changing the morphology of the overall structure as well as by connecting and disconnecting modules. Recurrent connectivity changes can cause misalignment that leads to mechanical failure of the system. This paper presents a new approach to reconfiguration, inspired by the art of origami, that eliminates connectivity changes during transformation. Our method consists of an energy-optimal reconfiguration planner that generates an initial 2D assembly pattern and an actuation sequence of the modular units, both resulting in minimum energy consumption. The algorithmic framework includes two approaches, an automatic modeling algorithm as well as a heuristic algorithm. We further demonstrate the effectiveness of our method by applying the algorithms to Mori, a modular origami robot, in simulation. Our results show that the heuristic algorithm yields reconfiguration schemes with high quality, compared with the automatic modeling algorithm, simultaneously saving a considerable amount of computational time and effort."
   authors: Meibao Yao, Christoph H Belke, Hutao Cui, Jamie Paik
   link:
