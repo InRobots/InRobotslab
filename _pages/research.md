@@ -16,6 +16,8 @@ Here are some themes and techniques that we are currently working on:
 Semantic segmentation of Martian terrains.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 55%; float: left; margin: 0px"}
 
+
+
 **Heterogeneous and Reconfigurable robots.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/ugv.jpg){: style="width: 25%; float: right; margin: 0px"}
 Questions of interest include: (i), How to understand the complex couplings of robotic morphology, their behavior and the interaction with the environment? (ii), What is the decision mechanism of monomeric, isomorphic or heterogeneous robots for mixed cooperative-competitive tasks? (iii), How to integrate advanced intelligence into robots for higher level perception and cognition?
 
