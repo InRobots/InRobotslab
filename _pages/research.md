@@ -14,7 +14,7 @@ Here are some themes and techniques that we are currently working on:
 
 **Semantic segmentation for planetary rover and orbiter.**
 Semantic segmentation of Martian terrains.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 85%; float: right; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 95%; float: right; margin: 0px"}
 
 
 
