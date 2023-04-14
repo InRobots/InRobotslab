@@ -29,7 +29,7 @@
   news2:
 
 - title: "A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover"
-  image: dummy.png
+  image: tnnls1.jpg
   description: "This article presents two kernel-based rock detection methods for a Mars rover. Rock detection on planetary surfaces is particularly pivotal for planetary vehicles regarding navigation and obstacle avoidance. However, the diverse morphologies of Martian rocks, the sparsity of pixel-wise features, and engineering constraints are great challenges to current pixel-wise object detection methods, resulting in inaccurate and delayed object location and recognition. We therefore propose a region-wise rock detection framework and design two detection algorithms, kernel principle component analysis (KPCA)-based rock detection (KPRD) and kernel low-rank representation (KLRR)-based rock detection (KLRD), using hypotheses of feature and sub-spatial separability. KPRD is based on KPCA and is expert in real-time detection yet with less accurate performance. KLRD is based on KPRD with KLRR which can generate more precise rock detection results with less delay. To validate the efficiency of the proposed methods, we build a small-scale Martian rock dataset, MarsData, containing various rocks. Preliminary experimental results show that our methods are efficient in dealing with complex images containing rocks, shadows, and gravel. The code and data are available at: https://github.com/CVIR-Lab/MarsData."
   authors: Xueming Xiao, Meibao Yao, Haiqiang Liu, Jiake Wang, Lei Zhang, Yuegang Fu
   link:
