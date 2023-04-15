@@ -8,7 +8,7 @@ permalink: /datasets/
 
 #### Mars Rock dataset for Mars Rover.
 
-<b>Description:</b> Code and the first public dataset for rock segmentation on Mars  
+<b>Description:</b> Code and the first public dataset for rock segmentation on Mars.
 <b>Download:</b> [MarsData](https://github.com/CVIR-Lab/MarsData); [MarsData-V2](https://github.com/CVIR-Lab/MarsData/tree/MarsData-V2)   
 <b>Reference:</b> [A Kernel-Based Multi-Featured Rock Modeling and Detection Framework for a Mars Rover](https://doi.org/10.1109/TNNLS.2021.3131206);     
                   [RockFormer: a U-shaped Transformer Network for Martian Rock Segmentation](https://doi.org/10.1109/TGRS.2023.3235525)
@@ -17,4 +17,4 @@ permalink: /datasets/
 
 <b>Description:</b> The first panorama dataset of unstructured Martian terrains for semantic and instance segmentation.  
 <b>Download:</b> [MarsScapes](https://github.com/InRobots/MarsScapes).  
-<b>Reference:</b>  
+<b>Reference:</b> [A hybrid attention semantic segmentation network for unstructured terrain on Mars](https://doi.org/10.1016/j.actaastro.2022.08.002)
