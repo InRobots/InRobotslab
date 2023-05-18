@@ -10,7 +10,7 @@ permalink: /research/
 
 Our overarching goal is to explore the complex coupling entwinement for robots interacting with their surroundings. To this end, we develop novel techniques and tools that enable us to address the questions we find most interesting. We further have group members with different background and interests, working together on robotics, computer vision, reinforcement learning and beyond.
 
-Here are some themes and techniques that we are currently working on:
+Here are some themes and technical topics that we are currently working on:
 
 **Semantic segmentation for planetary rover and orbiter.**
 Semantic segmentation of Martian terrains.
