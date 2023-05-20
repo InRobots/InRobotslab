@@ -18,6 +18,7 @@ Semantic segmentation of Martian terrains.
 
 **Object detection and tracking in uncertainties.**
 Research interest include: (i), Object detection in complex lighting conditions, (ii), multi-object tracking with blurred UAV videos and fast camera motions, (iii), SLAM with dynamic outdoor scenes.
+
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/uav.jpg){: style="width: 25%; float: left; margin: 0px"}
 
 **Heterogeneous and Reconfigurable robots.** ![]({{ site.url }}{{ site.baseurl }}/images/respic/ugv.jpg){: style="width: 25%; float: right; margin: 0px"}
