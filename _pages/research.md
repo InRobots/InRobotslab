@@ -27,7 +27,7 @@ Questions of interest include: (i), How to understand the complex couplings of r
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/tur.jpg){: style="width: 25%; float: right; margin: 0px"}  
 
-**Robot learning in multi-terrains.**   
+**Robot learning in multi-terrain navigation.**   
 Robot learning in time-varing multi-terrain navigation.    
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/test_environment.png){: style="width: 25%; float: right; margin: 0px"}
