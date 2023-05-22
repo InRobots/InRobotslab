@@ -16,8 +16,7 @@ Here are some themes and technical topics that we are currently working on:
 Semantic segmentation of Martian terrains.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 45%; float: middle; margin: 0px"}
 
-**Object detection and tracking in uncertainties.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/light1.png){: style="width: 25%; float: right; margin: 0px"}
+**Object detection and tracking in uncertainties.**![]({{ site.url }}{{ site.baseurl }}/images/respic/light1.png){: style="width: 25%; float: right; margin: 0px"}
 Research interests include: (i), Object detection in complex lighting conditions, (ii), multi-object tracking with blurred UAV videos and fast camera motions, (iii), SLAM with dynamic outdoor scenes.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/light2.png){: style="width: 25%; float: left; margin: 0px"}
 
