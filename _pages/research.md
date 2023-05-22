@@ -14,7 +14,7 @@ Here are some themes and technical topics that we are currently working on:
 
 **Semantic segmentation for planetary rover and orbiter.**
 Semantic segmentation of Martian terrains.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 35%; float: middle; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/seg.png){: style="width: 45%; float: middle; margin: 0px"}
 
 **Object detection and tracking in uncertainties.**
 Research interest include: (i), Object detection in complex lighting conditions, (ii), multi-object tracking with blurred UAV videos and fast camera motions, (iii), SLAM with dynamic outdoor scenes.
