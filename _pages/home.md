@@ -49,9 +49,9 @@ We are a motivated research lab of School of Artificial Intelligence at [Jilin U
 
 
 
-To this end, we develop novel methods for especially reconfigurable modular robots on scientific and technological issues, and to explore techniques to address the scientific questions we deem most important (see [Research](research)).
+To this end, we develop novel methods for especially reconfigurable modular robots on changing enviroments, and to explore techniques to address the scientific questions we deem most important (see [Research](research)).
 
-Located at JLU, as a part of School of Artificial Intelligence, we exchange ideas and work with our colleagues on tpoics like bionic robot and computr vision, as well as other interesting yet challenging topics.
+Located at JLU, as a part of School of Artificial Intelligence, we exchange ideas and work with our colleagues on tpoics like bionic robots and computer vision, as well as other interesting yet challenging topics.
 
  **We are looking for passionate new postdoc, Phd, Master and Undergrate students to join the lab** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
