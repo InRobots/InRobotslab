@@ -7,12 +7,12 @@
   invited_talk: 0
   highlight: 1
 
-- title: "Poster on RSS2023"
-  meeting: IEEE International Conference on Robotics and Automation
-  image: icra2023.jpg
-  presenter: Meibao Yao
-  date: May 58-June 3, 2023
-  location: ExCeL, London, UK
+- title: "Oral on RSS2023"
+  meeting: Robotics: Science and Systems
+  image: rss2023.jpg
+  presenter: Jieqiang Sun
+  date: Jul 10 – 14, 2023
+  location: Daegu, Korea
   invited_talk: 0
   highlight: 1
   
@@ -50,12 +50,31 @@
   date: July 1-5, 2018 
   location: Rio de Janeiro, Brazil
   invited_talk: 0
+  highlight: 0
 
-- title: "Poster on RSS"
-  meeting: IEEE Congress on Evolutionary Computation
-  image: icra2023.jpg
-  presenter: Xueming Xiao
-  date: July 1-5, 2018 
-  location: Rio de Janeiro, Brazil
+- title: "Poster on ICME"
+  meeting: IEEE International Conference on Multimedia and Expo
+  image: icme2021.jpg
+  presenter: Haiqiang Liu
+  date: July 5-9, 2021 
+  location: onine
   invited_talk: 0
+  highlight: 0
 
+- title: "Poster on ICPS"
+  meeting: IEEE International Conference on Industrial Cyber-Physical Systems
+  image: icps2021.jpg
+  presenter: Haiqiang Liu
+  date: May 10-12, 2021 
+  location: onine
+  invited_talk: 0
+  highlight: 0
+
+- title: "Poster on ICPS"
+  meeting: IEEE International Conference on Industrial Cyber-Physical Systems
+  image: icps2021.jpg
+  presenter: Haiqiang Liu
+  date: May 10-12, 2021 
+  location: onine
+  invited_talk: 0
+  highlight: 0
