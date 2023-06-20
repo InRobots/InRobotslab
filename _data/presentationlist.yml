@@ -1,6 +1,6 @@
 - title: "Poster on ICRA2023"
   meeting: IEEE International Conference on Robotics and Automation
-  image: icra2023.jpg
+  image: modular_robot.png
   presenter: Meibao Yao
   date: May 58-June 3, 2023
   location: ExCeL, London, UK
@@ -9,7 +9,7 @@
 
 - title: "Oral on RSS2023"
   meeting: Robotics: Science and Systems
-  image: rss2023.jpg
+  image: modular_robot.png
   presenter: Jieqiang Sun
   date: Jul 10 – 14, 2023
   location: Daegu, Korea
@@ -18,7 +18,7 @@
   
 - title: "Session Chair of ICASD 2023"
   meeting: International Conference on Aerospace Structural Dynamics
-  image: icra2023.jpg
+  image: modular_robot.png
   presenter: Meibao Yao
   date: Sep 15-17, 2023 
   location: Xi'an, China
@@ -27,7 +27,7 @@
   
 - title: "Poster on ICRA2020"
   meeting: IEEE International Conference on Robotics and Automation
-  image: icra2020.jpg
+  image: modular_robot.png
   presenter: Meibao Yao
   date: May 31-Aug 31, 2020
   location: online
@@ -36,7 +36,7 @@
 
 - title: "Poster on IROS2018"
   meeting: IEEE International Conference on Robotics and Automation
-  image: iros2018.jpg
+  image: modular_robot.png
   presenter: Meibao Yao
   date: OCT 1-5, 2020
   location: Madrid, Spain
@@ -45,7 +45,7 @@
   
 - title: "Poster on CEC2018"
   meeting: IEEE Congress on Evolutionary Computation
-  image: icra2023.jpg
+  image: modular_robot.png
   presenter: Xueming Xiao
   date: July 1-5, 2018 
   location: Rio de Janeiro, Brazil
@@ -54,7 +54,7 @@
 
 - title: "Poster on ICME"
   meeting: IEEE International Conference on Multimedia and Expo
-  image: icme2021.jpg
+  image: modular_robot.png
   presenter: Haiqiang Liu
   date: July 5-9, 2021 
   location: onine
@@ -63,7 +63,7 @@
 
 - title: "Poster on ICPS"
   meeting: IEEE International Conference on Industrial Cyber-Physical Systems
-  image: icps2021.jpg
+  image: modular_robot.png
   presenter: Haiqiang Liu
   date: May 10-12, 2021 
   location: onine
@@ -72,7 +72,7 @@
 
 - title: "Poster on ICPS"
   meeting: IEEE International Conference on Industrial Cyber-Physical Systems
-  image: icps2021.jpg
+  image: modular_robot.png
   presenter: Haiqiang Liu
   date: May 10-12, 2021 
   location: onine
