@@ -12,12 +12,10 @@ permalink: /presentations/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if talk.highlight == 1 %}
 
-
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
-
-
+ 
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ talk.title }}</pubtit>
@@ -56,11 +54,11 @@ permalink: /presentations/
 {% for talk in site.data.presentationlist %}
 
 {% if talk.invited_talk == 1 %} 
-    {{ talk.title }}, presented by {{ talk.presenter }} at {{ talk.meeting }}, {{ talk.date }}, {{ talk.location }}. (Invited) 
+{{ talk.title }}, presented by {{ talk.presenter }} at {{ talk.meeting }}, {{ talk.date }}, {{ talk.location }}. (Invited) 
 {% endif %}
 
 {% if talk.invited_talk == 0 %}
-    {{ talk.title }}, presented by {{ talk.presenter }} at {{ talk.meeting }}, {{ talk.date }}, {{ talk.location }}. 
+{{ talk.title }}, presented by {{ talk.presenter }} at {{ talk.meeting }}, {{ talk.date }}, {{ talk.location }}. 
 {% endif %}
 
 {% endfor %}
