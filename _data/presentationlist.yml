@@ -1,19 +1,61 @@
-- title: "R-AL Video"
-  meeting: XXXideo
-  presenter: XXX
-  date: Dec 11, 2019
-  location: XX, XX, XXX
+- title: "Poster on ICRA2023"
+  meeting: IEEE International Conference on Robotics and Automation
+  image: icra2023.jpg
+  presenter: Meibao Yao
+  date: May 58-June 3, 2023
+  location: ExCeL, London, UK
+  invited_talk: 0
+  highlight: 1
+
+- title: "Poster on RSS2023"
+  meeting: IEEE International Conference on Robotics and Automation
+  image: icra2023.jpg
+  presenter: Meibao Yao
+  date: May 58-June 3, 2023
+  location: ExCeL, London, UK
+  invited_talk: 0
+  highlight: 1
+  
+- title: "Session Chair of ICASD 2023"
+  meeting: International Conference on Aerospace Structural Dynamics
+  image: icra2023.jpg
+  presenter: Meibao Yao
+  date: Sep 15-17, 2023 
+  location: Xi'an, China
+  invited_talk: 1
+  highlight: 1
+  
+- title: "Poster on ICRA2020"
+  meeting: IEEE International Conference on Robotics and Automation
+  image: icra2020.jpg
+  presenter: Meibao Yao
+  date: May 31-Aug 31, 2020
+  location: online
+  invited_talk: 0
+  highlight: 1
+
+- title: "Poster on IROS2018"
+  meeting: IEEE International Conference on Robotics and Automation
+  image: iros2018.jpg
+  presenter: Meibao Yao
+  date: OCT 1-5, 2020
+  location: Madrid, Spain
+  invited_talk: 0
+  highlight: 1
+  
+- title: "Poster on CEC2018"
+  meeting: IEEE Congress on Evolutionary Computation
+  image: icra2023.jpg
+  presenter: Xueming Xiao
+  date: July 1-5, 2018 
+  location: Rio de Janeiro, Brazil
   invited_talk: 0
 
-- title: "XXX"
-  meeting: XX
-  presenter: XX
-  date: XX, XX, XX
-  location: Online
-  invited_talk: 1
-  
-- title: "XX"
-  meeting: XX
-  presenter: XX
-  date: XX, XX, XX
-  location: XXX, XX, XX
+- title: "Poster on RSS"
+  meeting: IEEE Congress on Evolutionary Computation
+  image: icra2023.jpg
+  presenter: Xueming Xiao
+  date: July 1-5, 2018 
+  location: Rio de Janeiro, Brazil
+  invited_talk: 0
+
