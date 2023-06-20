@@ -6,7 +6,7 @@
   location: ExCeL, London, UK
   invited_talk: 0
   highlight: 1
-
+  
 - title: "Oral on RSS2023"
   meeting: Robotics: Science and Systems
   image: modular_robot.png
@@ -33,7 +33,7 @@
   location: online
   invited_talk: 0
   highlight: 1
-
+  
 - title: "Poster on IROS2018"
   meeting: IEEE International Conference on Robotics and Automation
   image: modular_robot.png
@@ -51,7 +51,7 @@
   location: Rio de Janeiro, Brazil
   invited_talk: 0
   highlight: 0
-
+  
 - title: "Poster on ICME"
   meeting: IEEE International Conference on Multimedia and Expo
   image: modular_robot.png
@@ -60,7 +60,7 @@
   location: onine
   invited_talk: 0
   highlight: 0
-
+  
 - title: "Poster on ICPS"
   meeting: IEEE International Conference on Industrial Cyber-Physical Systems
   image: modular_robot.png
@@ -69,7 +69,7 @@
   location: onine
   invited_talk: 0
   highlight: 0
-
+  
 - title: "Poster on ICPS"
   meeting: IEEE International Conference on Industrial Cyber-Physical Systems
   image: modular_robot.png
