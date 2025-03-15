@@ -6,6 +6,9 @@ sitemap: false
 permalink: /workshop/
 ---
 
+ **We are going to organize a workshop on IROS2025: Towards Autonomy and Resiliency of Field Robotics**
+
+
 ## Organizers
 {% assign number_printed = 0 %}
 {% for member in site.data.workshop %}
