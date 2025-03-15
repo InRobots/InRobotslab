@@ -8,7 +8,7 @@ permalink: /workshop/
 
 ## Organizers
 {% assign number_printed = 0 %}
-{% for member in site.data.people %}
+{% for member in site.data.workshop %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -73,7 +73,7 @@ permalink: /workshop/
 
 ## Keynote Speakers
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.workshop %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -128,7 +128,7 @@ permalink: /workshop/
 ## Collaborators
 
 {% assign number_printed = 0 %}
-{% for member in site.data.collaborator_members %}
+{% for member in site.data.workshop %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
