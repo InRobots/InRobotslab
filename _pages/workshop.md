@@ -6,7 +6,7 @@ sitemap: false
 permalink: /workshop/
 ---
 
- **We are going to organize a workshop on IROS2025: Towards Autonomy and Resiliency of Field Robotics**
+### We are going to organize a workshop on IROS2025: Towards Autonomy and Resiliency of Field Robotics。
 
 
 ## Organizers
