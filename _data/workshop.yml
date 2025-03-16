@@ -1,27 +1,33 @@
 - name: Yang Gao
-  photo: mbyao.png
-  info: Professor, King's College London
-  email: meibaoyao@jlu.edu.cn
+  photo: ygao.png
+  info: Professor, KCL King's College London
+  email: xx@jlu.edu.cn
   number_educ: 1
-  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+  information: Professor Yang Gao is a Professor of Robotics and heads the Centre for Robotics Research within the Department of Engineering at King's College London. 
+  She brings over 20 years of research experience in developing space robotics and autonomous systems, in which she has been the Principal Investigator of nationally and
+  internationally teamed projects funded by European Space Agency (ESA), UK Space Agency, UK Research Innovation, Royal Academy of Engineering, European Commission, 
+  as well as industries. Yang is also actively involved in design and development of real-world space missions such as ESA ExoMars, Proba3 and VMMO (lunar ice mapper), 
+  UK's CLEAR, MoonLITE and Moonraker, and CNSA Chang'E3. Yang's work has been applied to several non-space sectors including nuclear, utility and agriculture through 
+  technology transfer and spin offs.
 
 - name: Zexu Zhang
-  photo: mbyao.png
+  photo: zxzhang.png
   info: Professor, Harbin Institute of Technology
-  email: meibaoyao@jlu.edu.cn
+  email: xx@jlu.edu.cn
   number_educ: 1
-  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
-
+  information:  Professor Zexu Zhang is the Deputy Director of the Institute of Architecture in Complex Environments at Harbin Institute of Technology, and also the Deputy 
+  Director of the National Key Laboratory of "Rapid Design and Intelligent Clustering of Micro - Nano Spacecraft". He heads the Institute of Flight Vehicle Dynamics and Control at the School of Astronautics.
+  
 - name: Meibao Yao
   photo: mbyao.png
   info: Associate professor, Jilin University
   email: meibaoyao@jlu.edu.cn
   number_educ: 1
-  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+  information: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
 
 - name: Xueming Xiao
-  photo: mbyao.png
+  photo: xmxiao.png
   info: Associate professor, Changchun University of Science and Technology
-  email: meibaoyao@jlu.edu.cn
+  email: xx@jlu.edu.cn
   number_educ: 1
-  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+  information: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
