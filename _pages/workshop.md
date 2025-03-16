@@ -11,6 +11,25 @@ Deploying robots in the field without ethical considerations can cause ecologica
 
 The intersection of AI and robotics holds great promise for sustainable field deployment, aiming at minimize environmental impact while optimizing resource use across multiple domains, such as agricultural automation, environmental monitoring, disaster response, and mining. In light of this, bringing together experts from academia and industry, we aim to address scientific and technical questions such as: How can AI-powered robots enhance ecological sustainability in field applications? What materials and designs are most conducive to reducing the environmental impact of robotic systems? How can we trade off the resiliency in swarm robotics and potential increase in material usage? By fostering interdisciplinary dialogue and innovation, our workshop seeks to contribute to the development of robotic systems that are not only technologically advanced but also environmentally responsible. 
 
+## Important dates
+- Paper submission deadline:
+- Notification of acceptance:
+- Workshop date:
+
+The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
+
+## Call for papers
+The workshop topics include, but are not limited to:
+- Agriculture
+- Construction
+- Forestry
+- Healthcare
+- Intelligent Transportation Systems
+- Marine Robotics
+- Mining
+- Search and rescue
+- Space exploration
+
 ## Organizers
 {% assign number_printed = 0 %}
 {% for member in site.data.workshop %}
@@ -82,10 +101,10 @@ The intersection of AI and robotics holds great promise for sustainable field de
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="col">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/keynote/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br> {{ member.apt }}</i>
