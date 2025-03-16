@@ -15,7 +15,7 @@ The intersection of AI and robotics holds great promise for sustainable field de
 {% assign number_printed = 0 %}
 {% for member in site.data.workshop %}
 
-{% assign even_odd = number_printed | modulo: 1 %}
+{% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
 <div class="row">
