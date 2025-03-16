@@ -2,7 +2,7 @@
   photo: ygao.png
   info: Professor, Ritsumeikan University, Japan
   email: xx@jlu.edu.cn
-  title: Title\: Soft Robotics for Agrifood applications
+  title: Title<:> Soft Robotics for Agrifood applications
   number_info: 1
   information: Prof. Wang is the 
   
@@ -10,7 +10,7 @@
   photo: zxzhang.png
   info: Professor, Brunel University of London, UK
   email: xx@jlu.edu.cn
-  title: Title\: Towards Specialised Robotic Systems in Challenging Environments
+  title: Title<:> Towards Specialised Robotic Systems in Challenging Environments
   number_info: 1
   information: Prof. Wang is Vice De
 
@@ -18,7 +18,7 @@
   photo: zxzhang.png
   info: Professor, Harbin Institute of Technology, China
   email: xx@jlu.edu.cn
-  title: Title\: Key Technologies of Active Exoskeletons and Their Ground Testing Aimed at Long-term Lunar Habitation
+  title: Title<:> Key Technologies of Active Exoskeletons and Their Ground Testing Aimed at Long-term Lunar Habitation
   number_info: 1
   information: Prof. Liu is Vice De
 
@@ -26,6 +26,6 @@
   photo: zxzhang.png
   info: Professor, Jilin University, China
   email: xx@jlu.edu.cn
-  title: Title\: Biomimetic Self Balancing Drilling Technology and Equipment
+  title: Title<:> Biomimetic Self Balancing Drilling Technology and Equipment
   number_info: 1
   information: Prof. Zhao
