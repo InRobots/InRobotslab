@@ -111,6 +111,12 @@ The workshop topics include, but are not limited to:
   <!--<i>{{ member.duration }} <br> Role: {{ member.info }}</i>-->
   <ul style="overflow: hidden">
 
+  {% if member.number_info == 1 %}
+  <li> {{ member.information }} </li>
+  <li><h4>{{ member.title }}</h4> </li>
+  {% endif %}
+
+
   </ul>
 </div>
 
