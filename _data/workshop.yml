@@ -1,6 +1,27 @@
+- name: Yang Gao
+  photo: mbyao.png
+  info: Professor, King's College London
+  email: meibaoyao@jlu.edu.cn
+  number_educ: 1
+  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+
+- name: Zexu Zhang
+  photo: mbyao.png
+  info: Professor, Harbin Institute of Technology
+  email: meibaoyao@jlu.edu.cn
+  number_educ: 1
+  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+
 - name: Meibao Yao
   photo: mbyao.png
-  info: Associate professor, lab leader, started Sep 2019
+  info: Associate professor, Jilin University
+  email: meibaoyao@jlu.edu.cn
+  number_educ: 1
+  education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
+
+- name: Xueming Xiao
+  photo: mbyao.png
+  info: Associate professor, Changchun University of Science and Technology
   email: meibaoyao@jlu.edu.cn
   number_educ: 1
   education1: PhD with <a href="http://homepage.hit.edu.cn/cht?lang=en">Hutao Cui</a>, <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>  
