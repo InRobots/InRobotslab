@@ -25,8 +25,8 @@ permalink: /workshop/
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  {% if member.number_info == 1 %}
+  <li> {{ member.information }} </li>
   {% endif %}
 
   {% if member.number_educ == 2 %}
