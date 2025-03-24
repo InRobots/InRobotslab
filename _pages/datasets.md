@@ -18,3 +18,9 @@ permalink: /datasets/
 <b>Description:</b> The first panorama dataset of unstructured Martian terrains for semantic and instance segmentation.  
 <b>Download:</b> [MarsScapes](https://github.com/InRobots/MarsScapes).  
 <b>Reference:</b> [A hybrid attention semantic segmentation network for unstructured terrain on Mars](https://doi.org/10.1016/j.actaastro.2022.08.002)
+
+
+#### Lunar Novel View Synthesis Dataset.
+
+<b>Description:</b> The MoonBlender dataset comprises meticulously processed lunar data, partitioned into cluster-friendly blocks reminiscent of the [pixelSplat](https://github.com/dcharatan/pixelsplat) format. Each file contains **raw RGB imagery, detailed semantic annotations, and precise camera pose information**, providing a robust foundation for advanced computer vision research and applications.  
+<b>Download:</b> [MarsScapes](https://github.com/InRobots/MoonBlender).  
