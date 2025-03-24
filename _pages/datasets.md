@@ -23,4 +23,4 @@ permalink: /datasets/
 #### Lunar Novel View Synthesis Dataset.
 
 <b>Description:</b> The MoonBlender dataset comprises meticulously processed lunar data, partitioned into cluster-friendly blocks reminiscent of the [pixelSplat](https://github.com/dcharatan/pixelsplat) format. Each file contains **raw RGB imagery, detailed semantic annotations, and precise camera pose information**, providing a robust foundation for advanced computer vision research and applications.  
-<b>Download:</b> [MarsScapes](https://github.com/InRobots/MoonBlender).  
+<b>Download:</b> [MoonBlender](https://github.com/InRobots/MoonBlender).  
