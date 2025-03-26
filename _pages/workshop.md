@@ -106,15 +106,26 @@ The workshop topics include, but are not limited to:
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/keynote/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
   <h4>{{ member.title }}</h4>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <br> {{ member.apt }}</i>
   
   <!--<i>{{ member.duration }} <br> Role: {{ member.info }}</i>-->
   <ul style="overflow: hidden">
   
   {% if member.number_info == 1 %}
-  <li> {{ member.information }} </li>
+  <li> {{ member.information1 }} </li>
+  {% endif %}
+  
+  {% if member.number_info == 2 %}
+  <li> {{ member.information1 }} </li>
+  <li> {{ member.information2 }} </li>
+  {% endif %}
+  
+  {% if member.number_info == 3 %}
+  <li> {{ member.information1 }} </li>
+  <li> {{ member.information2 }} </li>
+  <li> {{ member.information3 }} </li>
   {% endif %}
 
   </ul>
