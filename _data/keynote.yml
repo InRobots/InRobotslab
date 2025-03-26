@@ -12,9 +12,7 @@
   email: xx@jlu.edu.cn
   title: Title:Towards Specialised Robotic Systems in Challenging Environments
   number_info: 1
-  information: This is a long string \
-  that needs to be split over \
-  multiple lines.
+  information: This is a long string \ that needs to be split over \ multiple lines.
 
 - name: Yanfang Liu
   photo: zxzhang.png
