@@ -8,18 +8,28 @@
 #  education3:
 #  education4:
 
-- name: Shuang Cai
-  photo: rock.jpg
-  info: Working on open project 1 
-  email: 
-  number_educ: 0
-  education1: 
+- name: Xiaoyan Dai
+  photo: hqliu.jpg
+  info: Phd student, started Oct 2022
+  email: hqliu20@mails.jlu.edu.cn
+  number_educ: 2
+  education1: Bsc with Jilin University
+  education2: Master with Jilin University
   
-- name: Rongxu Zhao
-  photo: rock.jpg
-  info: Working on open project 1 
-  email: 
-  number_educ: 0
-  education1: 
+- name: Yao Jiang
+  photo: hqliu.jpg
+  info: Phd student, started Oct 2022
+  email: hqliu20@mails.jlu.edu.cn
+  number_educ: 2
+  education1: Bsc with Jilin University
+  education2: Master with Jilin University
+
+- name: Huangfeng Zhao
+  photo: hqliu.jpg
+  info: Phd student, started Oct 2024
+  email: hqliu20@mails.jlu.edu.cn
+  number_educ: 2
+  education1: Bsc with Jilin University
+  education2: Master with Jilin University
 
   
