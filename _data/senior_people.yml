@@ -1,14 +1,7 @@
-- name: Yuegang Fu
-  photo: ygfu.png
-  info: Professor, vice-principal of CUST
-  email: fuyg@cust.edu.cn
+- name: Meibao Yao
+  photo: yaomb.png
+  info: Associate Professor, leader of IRL
+  email: meibaoyao@jlu.edu.cn
   number_educ: 1
-  education1: PhD, Changchun University of Science and Technology(CUST)  
-
-- name: Lei Zhang
-  photo: lzhang.png
-  info: Professor, Deputy director of Key Laboratory of Ministry of Education
-  email: zhangl@cust.edu.cn
-  number_educ: 1
-  education1: PhD, Changchun University of Science and Technology(CUST)
+  education1: PhD, Herbin Institute of Technology  
 
