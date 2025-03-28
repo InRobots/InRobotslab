@@ -1,13 +1,67 @@
+- name: Yun Jiang
+  info: Master student, started Sept 2024
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+  
+- name: Yingbo Luo
+  info: Master student, started Sept 2024
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with
+
+- name: Sitong Qian
+  info: Master student, started Sept 2024
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+
+- name: Guonan Li
+  info: Master student, started Sept 2023
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+  
+- name: Peng Zhaao
+  info: Master student, started Sept 2023
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+
+- name: Jieqiang Sun
+  info: Master student, started Sept 2023
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+
+- name: Junhui Cheng
+  info: Master student, started Sept 2022
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+
+- name: Yuchao Du
+  info: Master student, started Sept 2022
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+
+- name: Yanbo Mao
+  info: Master student, started Sept 2022
+  email: lhm20@mails.jlu.edu.cn
+  number_educ: 0
+  education1: Bsc with 
+
 - name: Haoming Liu
   photo: haomingliu.png
-  info: Master student, started Sept 2019
+  info: Master student, started Sept 2023
   email: lhm20@mails.jlu.edu.cn
   number_educ: 1
   education1: Bsc with NEEPU
 
 #- name: Hua Shang
 #  photo: hshang.jpg
-#  info: Master student, started Sept 2019
+#  info: Master student, started Sept 2022
 #  email: shanghua19 @mails.jlu.edu.cn
 #  number_educ: 1
 #  education1: Bsc with Jilin University
@@ -40,19 +94,7 @@
 #  number_educ: 1
 #  education1: Bsc with Jilin University  
 
-- name: Yifan Wang
-  photo: YifanWang.jpg
-  info: Master student, started Oct 2021
-  email: yifanw21@mails.jlu.edu.cn
-  number_educ: 1
-  education1: Bsc with Jilin University 
 
-- name: Pengzhi Tian
-  photo: PengzhiTian.jpg
-  info: Master student, started Oct 2021
-  email: tianpz21@mails.jlu.edu.cn
-  number_educ: 1
-  education1: Bsc with Harbin Institute of Technology(WeiHai)
 
 - name: "This could be you !"
   photo: rock.jpg
