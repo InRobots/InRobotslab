@@ -168,7 +168,7 @@ Jump to [Staff](#staff), [Bachelor students](#bachelor-students), [Collaborators
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors, Phd/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
