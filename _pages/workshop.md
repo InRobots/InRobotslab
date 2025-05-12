@@ -30,6 +30,57 @@ The workshop topics include, but are not limited to:
 - Search and rescue
 - Space exploration
 
+## Keynote Speakers
+
+{% assign number_printed = 0 %}
+{% for member in site.data.keynote %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="col">
+{% endif %}
+
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/keynote/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.title }}</h4>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <br> {{ member.apt }}</i>
+  
+  <!--<i>{{ member.duration }} <br> Role: {{ member.info }}</i>-->
+  <ul style="overflow: hidden">
+  
+  {% if member.number_info == 1 %}
+  <li> {{ member.information1 }} </li>
+  {% endif %}
+  
+  {% if member.number_info == 2 %}
+  <li> {{ member.information1 }} </li>
+  <li> {{ member.information2 }} </li>
+  {% endif %}
+  
+  {% if member.number_info == 3 %}
+  <li> {{ member.information1 }} </li>
+  <li> {{ member.information2 }} </li>
+  <li> {{ member.information3 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ## Organizers
 {% assign number_printed = 0 %}
 {% for member in site.data.workshop %}
@@ -74,58 +125,6 @@ The workshop topics include, but are not limited to:
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-
-## Keynote Speakers
-
-{% assign number_printed = 0 %}
-{% for member in site.data.keynote %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="col">
-{% endif %}
-
-<div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/keynote/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.title }}</h4>
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br> {{ member.apt }}</i>
-  
-  <!--<i>{{ member.duration }} <br> Role: {{ member.info }}</i>-->
-  <ul style="overflow: hidden">
-  
-  {% if member.number_info == 1 %}
-  <li> {{ member.information1 }} </li>
-  {% endif %}
-  
-  {% if member.number_info == 2 %}
-  <li> {{ member.information1 }} </li>
-  <li> {{ member.information2 }} </li>
-  {% endif %}
-  
-  {% if member.number_info == 3 %}
-  <li> {{ member.information1 }} </li>
-  <li> {{ member.information2 }} </li>
-  <li> {{ member.information3 }} </li>
   {% endif %}
 
   </ul>
