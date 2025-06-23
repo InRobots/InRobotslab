@@ -16,7 +16,7 @@ The intersection of AI and robotics holds great promise for sustainable field de
 - Notification of acceptance:
 - Workshop date: 2pm to 6pm, Oct, 20th, 2025 
 
-The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
+## All the paper should be submited by the [workshop service](https://cvirlab.quickconnect.cn/sharing/Aa9iOFomM) The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
 ## Call for papers
 The workshop topics include, but are not limited to:
@@ -29,7 +29,7 @@ The workshop topics include, but are not limited to:
 - Mining
 - Search and rescue
 - Space exploration
-## All the paper should be submited by the [website](https://cvirlab.quickconnect.cn/sharing/Aa9iOFomM)
+
 ## Keynote Speakers
 
 {% assign number_printed = 0 %}
