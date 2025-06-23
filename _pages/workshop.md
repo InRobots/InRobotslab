@@ -29,7 +29,7 @@ The workshop topics include, but are not limited to:
 - Mining
 - Search and rescue
 - Space exploration
-
+## All the paper should be submited by the [website](https://cvirlab.quickconnect.cn/sharing/Aa9iOFomM)
 ## Keynote Speakers
 
 {% assign number_printed = 0 %}
