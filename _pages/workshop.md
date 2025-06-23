@@ -14,7 +14,7 @@ The intersection of AI and robotics holds great promise for sustainable field de
 ## Important dates
 - Paper submission deadline:
 - Notification of acceptance:
-- Workshop date:
+- Workshop date: 2pm to 6pm, Oct, 20th, 2025 
 
 The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
