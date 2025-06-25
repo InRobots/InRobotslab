@@ -147,7 +147,7 @@ The workshop topics include, but are not limited to:
 <div class="col">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/keynote/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/workshop/logo" class="img-responsive" width="15%" style="float: left" />
   <ul style="overflow: hidden">
   </ul>
 </div>
