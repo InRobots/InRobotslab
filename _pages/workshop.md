@@ -146,8 +146,5 @@ The workshop topics include, but are not limited to:
 ## In Partnership With
 <div class="col">
 
-<div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/workshop/logo" class="img-responsive" width="15%" style="float: left" />
-  <ul style="overflow: hidden">
-  </ul>
-</div>
+![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hit.jpeg){: style="width: 25%; right: left; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/jlu.jpg){: style="width: 25%; right: left; margin: 0px"}  
