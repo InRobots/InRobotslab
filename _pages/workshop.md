@@ -144,7 +144,7 @@ The workshop topics include, but are not limited to:
 {% endif %}
 
 ## In Partnership With
-<div class="col-sm-12 clearfix"> 
+<div class="col-lg-12 clearfix"> 
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hkust.png){: style="width: 5%; right: left; margin: 2px"} 
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hit.jpeg){: style="width: 5%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jlu.jpg){: style="width: 5%; right: left; margin: 2px"}  
