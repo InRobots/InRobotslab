@@ -142,6 +142,7 @@ The workshop topics include, but are not limited to:
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
 ## In Partnership With
 <div class="col">
 
