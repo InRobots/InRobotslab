@@ -145,6 +145,9 @@ The workshop topics include, but are not limited to:
 
 ## In Partnership With
 <div class="col-lg-12 clearfix"> 
+  ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/ieee-ras-logo.png){: style="width: 5%; right: left; margin: 2px"}
+  ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jfr.jpg){: style="width: 5%; right: left; margin: 2px"}
+  ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/cssr.jpg){: style="width: 5%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hkust.png){: style="width: 5%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hit.jpeg){: style="width: 5%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jlu.jpg){: style="width: 5%; right: left; margin: 2px"}
