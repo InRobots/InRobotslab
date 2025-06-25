@@ -146,7 +146,7 @@ The workshop topics include, but are not limited to:
 ## In Partnership With
 <div class="col">
   
-![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hkust.png){: style="width: 15%; right: left; margin: 0px"} 
-![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hit.jpeg){: style="width: 15%; right: left; margin: 0px"}
-![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jlu.jpg){: style="width: 15%; right: left; margin: 0px"}  
-![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/cust.png){: style="width: 15%; right: left; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hkust.png){: style="width: 5%; right: left; margin: 2px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hit.jpeg){: style="width: 5%; right: left; margin: 2px"}
+![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jlu.jpg){: style="width: 5%; right: left; margin: 2px"}  
+![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/cust.png){: style="width: 5%; right: left; margin: 2px"}
