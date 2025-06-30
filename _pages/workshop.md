@@ -94,7 +94,7 @@ The workshop topics include, but are not limited to:
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="col">
+<div class="row">
 {% endif %}
 
 <div class="col-sm-12 clearfix">
