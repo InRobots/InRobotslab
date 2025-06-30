@@ -12,8 +12,8 @@ Deploying robots in the field without ethical considerations can cause ecologica
 The intersection of AI and robotics holds great promise for sustainable field deployment, aiming at minimize environmental impact while optimizing resource use across multiple domains, such as agricultural automation, environmental monitoring, disaster response, and mining. In light of this, bringing together experts from academia and industry, we aim to address scientific and technical questions such as: How can AI-powered robots enhance ecological sustainability in field applications? What materials and designs are most conducive to reducing the environmental impact of robotic systems? How can we trade off the resiliency in swarm robotics and potential increase in material usage? By fostering interdisciplinary dialogue and innovation, our workshop seeks to contribute to the development of robotic systems that are not only technologically advanced but also environmentally responsible. 
 
 ## Important dates
-- Paper submission deadline: Oct, 1st, 2025
-- Notification of acceptance: Oct, 7th, 2025
+- Paper submission deadline: Sept, 10th, 2025
+- Notification of acceptance: Oct, 10th, 2025
 - Workshop date: 2pm to 6pm, Oct, 20th, 2025 
 
 All the paper should be submited by the EasyChair The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
