@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5e0539c5-723c-4a65-b166-f23350ef0bff)---
 title: "InRobots - Workshop"
 layout: gridlay
 excerpt: "Workshop"
