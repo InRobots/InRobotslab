@@ -149,8 +149,8 @@ The workshop topics include, but are not limited to:
 </div>
 {% endif %}
 
-## Concats:
-alexcapshow@cust.edu.cn
+## Contact:
+Xueming Xiao:alexcapshow@cust.edu.cn
 
 ## In Partnership With
 <div class="col-lg-12 clearfix"> 
