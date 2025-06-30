@@ -1,3 +1,4 @@
+---
 title: "InRobots - Workshop"
 layout: gridlay
 excerpt: "Workshop"
