@@ -148,7 +148,7 @@ The workshop topics include, but are not limited to:
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/ieee.png){: style="width: 12%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/ieee-ras-logo.png){: style="width: 12%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jfr1.jpg){: style="width: 12%; right: left; margin: 2px"}
-  ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/cssr.jpg){: style="width: 7%; right: left; margin: 2px"}  
+  ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/cssr.jpg){: style="width: 7%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hkust.png){: style="width: 8%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/hit.jpeg){: style="width: 8%; right: left; margin: 2px"}
   ![]({{ site.url }}{{ site.baseurl }}/images/workshop/logo/jlu.jpg){: style="width: 8%; right: left; margin: 2px"}
