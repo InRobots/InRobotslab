@@ -34,7 +34,7 @@ The workshop topics include, but are not limited to:
 - Each submission will be peer-reviewed by at least two members of the programcommittee.
 
 ## Publication Partners
-- The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
+- Selected best submissions will be invited to submit a full-length paper to a special issue of the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
 ## Keynote Speakers
 
