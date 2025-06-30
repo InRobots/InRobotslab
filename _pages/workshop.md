@@ -97,7 +97,7 @@ The workshop topics include, but are not limited to:
 <div class="row">
 {% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/workshop/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
