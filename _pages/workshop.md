@@ -16,7 +16,7 @@ The intersection of AI and robotics holds great promise for sustainable field de
 - Notification of acceptance: Oct, 10th, 2025
 - Workshop date: 2pm to 6pm, Oct, 20th, 2025 
 
-## Call for papers
+## Call for posters
 The workshop topics include, but are not limited to:
 - Agriculture
 - Construction
@@ -30,7 +30,7 @@ The workshop topics include, but are not limited to:
 
 ## Submission Information
 - All the paper should be submited by the [EasyChair](https://easychair.org/conferences?conf=2025irosworkshoptsrf).
-- Posters should be no longer than 2 pages (excluding references) and follow the lROS double column format. Information and templates are availablehere at:https://ras.papercept.net/conferences/support/support.php  
+- Posters should be no longer than 2 pages (excluding references) and follow the lROS double column format. Information and templates are availablehere at [PaperCept](https://ras.papercept.net/conferences/support/support.php)  
 - Each submission will be peer-reviewed by at least two members of the programcommittee.
 
 ## Publication Partners
@@ -150,7 +150,7 @@ The workshop topics include, but are not limited to:
 {% endif %}
 
 ## Contact:
-Xueming Xiao:alexcapshow@cust.edu.cn
+Dr. Xueming Xiao: alexcapshow@cust.edu.cn
 
 ## In Partnership With
 <div class="col-lg-12 clearfix"> 
