@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1112d461-eb05-412e-a1a7-55257a501cbf)---
+---
 title: "InRobots - Workshop"
 layout: gridlay
 excerpt: "Workshop"
@@ -30,7 +30,7 @@ The workshop topics include, but are not limited to:
 
 ## Submission Information
 - All the paper should be submited by the [EasyChair](https://easychair.org/conferences?conf=2025irosworkshoptsrf).
-- Posters are without format restrictions. The selected authors will deliver a 3-minute pitch+poster display.   
+- Posters are without format restrictions. The selected authors will deliver a 5-minute pitch+poster display.   
 - Each submission will be peer-reviewed by at least two members of the programcommittee.
 
 ## Publication Partners
