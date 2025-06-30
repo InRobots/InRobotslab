@@ -16,8 +16,6 @@ The intersection of AI and robotics holds great promise for sustainable field de
 - Notification of acceptance: Oct, 10th, 2025
 - Workshop date: 2pm to 6pm, Oct, 20th, 2025 
 
-All the paper should be submited by the EasyChair The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
-
 ## Call for papers
 The workshop topics include, but are not limited to:
 - Agriculture
@@ -29,6 +27,14 @@ The workshop topics include, but are not limited to:
 - Mining
 - Search and rescue
 - Space exploration
+
+## Submission Information
+- All the paper should be submited by the EasyChair.  
+- Posters should be no longer than 2 pages (excluding references) and follow the lROS double column format. Information and templates are availablehere at: (https://ras.papercept.net/conferences/support/support.php)  
+- Each submission will be peer-reviewed by at least two members of the programcommittee.
+
+## Publication Partners
+- The best submissions will be invited to submit a full-length paper in the [Journal on Field Robotics](https://onlinelibrary.wiley.com/journal/15564967).
 
 ## Keynote Speakers
 
