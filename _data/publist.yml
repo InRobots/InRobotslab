@@ -1,3 +1,53 @@
+- title: "M2CS: A Multimodal and Campus‐Scapes Dataset for Dynamic SLAM and Moving Object Perception"
+  image: rockformer.png
+  description: ""
+  authors: Zhao H, Yao M, Zhao Y, et al
+  link:
+    url: https://doi.org/10.1002/rob.22468
+    display:  Journal of Field Robotics 42(3), 787-805, 2025
+  highlight: 0
+  news2:
+
+- title: "Layer-Wise Pruning Ratios Auto-configuration: A One-Shot Channel Pruning Through Sensitivity and Spatial Analysis"
+  image: rockformer.png
+  description: ""
+  authors: Li G, Yao M, Xiao X
+  link:
+    url: https://doi.org/10.1007/978-3-031-78444-6_10
+    display:  In International Conference on Pattern Recognition, Springer, Cham.
+  highlight: 0
+  news2:
+
+- title: "DynaInsRemover: A Real-time Dynamic Instance-Aware Static 3D LiDAR Mapping Framework for Dynamic Environment"
+  image: rockformer.png
+  description: ""
+  authors: Zhao H, Yao M, Xiao X, et al
+  link:
+    url: https://doi.org/10.1109/ICRA57147.2024.10610211
+    display:  IEEE International Conference on Robotics and Automation (ICRA) 2024, IEEE.
+  highlight: 0
+  news2:
+
+- title: "3D semantic terrain reconstruction of monocular close-up images of Martian terrains"
+  image: rockformer.png
+  description: ""
+  authors: Tian P, Yao M, Xiao X, et al
+  link:
+    url: https://doi.org/10.1109/TGRS.2024.3378192
+    display: IEEE Transactions on Geoscience and Remote Sensing. 62, 1-16, 2024.
+  highlight: 0
+  news2:
+
+- title: "Marsscapes and udaformer: A panorama dataset and a transformer-based unsupervised domain adaptation framework for martian terrain segmentation"
+  image: rockformer.png
+  description: ""
+  authors: Liu H, Yao M, Xiao X, et al
+  link:
+    url: https://doi.org/10.1109/TGRS.2023.3343109
+    display: IEEE Transactions on Geoscience and Remote Sensing. 62, 1-17, 2024.
+  highlight: 0
+  news2:
+
 - title: "RockFormer: A U-Shaped Transformer Network for Martian Rock Segmentation"
   image: rockformer.png
   description: "We propose RockFormer, the first U-shaped Transformer framework for Mars rock segmentation, consisting of a hierarchical encoder–decoder architecture with a feature refining module (FRM) connected between them. Specifically, the encoder hierarchically generates multiscale features using an improved vision Transformer (improved-ViT), where both abundant local information and long-range contexts are exploited. The FRM removes less representative features and captures global dependencies between multiscale features, improving RockFormer’s robustness to Martian rocks with diverse appearances. The decoder is responsible for aggregating these features for pixelwise rock prediction. For evaluation, we establish two Mars rock datasets, including both real and synthesized images. One is MarsData-V2, an extension of our previously published MarsData collected from real Mars rocks. The other is SynMars, a synthetic dataset sequentially photographed from a virtual terrain built referring to the TianWen-1 dataset. Extensive experiments on the two datasets show the superiority of RockFormer for Martian rock segmentation, achieving state-of-the-art performance with decent computational simplicity."
