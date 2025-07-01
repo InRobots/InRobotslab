@@ -7,17 +7,7 @@
   education2:
   education3:
   education4:
-
-- name: Xueming Xiao
-  info: Associate professor
-  apt: CVIR lab, Changchun University of Science and Technology
-  email: XXX
-  number_educ: 1
-  education1: 
-  education2:
-  education3:
-  education4:
-  
+ 
 - name: Bo Zheng
   info: Senior engineer of Navigation Lab
   apt: Aerospace R&D Center, Shanghai Aerospace Control Technology Institute.
