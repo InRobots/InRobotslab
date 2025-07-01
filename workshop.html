@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IROS 2025 Workshop – Towards Sustainability and Resiliency of Field Robotics</title>
+
+  <!-- ① 站点原本用的 Bootstrap 3 -->
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css">
+
+  <!-- ② 仅本页需覆盖的附加样式 -->
+  <!-- ② 仅本页用到的附加 CSS -->
+  <style>
+    /* =============== 页面通用 =============== */
+    body{
+      position:relative;margin:0;min-height:100vh;
+      font-family:"Helvetica Neue",Arial,sans-serif;
+      line-height:1.5;padding-top:70px;padding-bottom:3rem;
+    }
+    /* 全屏淡背景图 —— 改这里的路径即可换图 */
+    body::before{
+      content:"";position:fixed;inset:0;
+      background:url("/images/workshop/bkiros.png") center/contain no-repeat;
+      opacity:.25;z-index:-1;pointer-events:none;
+    }
+    h1{font-size:28px;font-weight:700;margin:20px 0}
+    h2{font-size:22px;font-weight:700;margin:30px 0 15px}
+    h3{font-size:18px;font-weight:700;margin:20px 0 5px}
+    footer{margin-top:40px;font-size:14px;color:#666;text-align:center}
+
+    /* =============== Keynote Speakers =============== */
+    .speaker{margin-bottom:40px}
+    .speaker img{
+      width:160px;height:250px;object-fit:cover;object-position:center;
+      border-radius:6px;
+    }
+
+    /* =============== Organizers =============== */
+    .organizer{margin-bottom:25px}
+    .organizer img{
+      width:100px;height:130px;object-fit:cover;object-position:center;
+      border-radius:6px;
+    }
+
+    /* =============== Partner Logos =============== */
+    .partner-logo {
+      max-height: 50px;
+      width: auto;
+      display: block;
+    }
+
+    .logo-bar {
+      display: flex;
+      justify-content: flex-start;  /* 左对齐 */
+      align-items: center;
+      gap: 8px;                     /* 间距自己调 */
+      margin-bottom: 18px;
+    }
+    .partner-logo1 {
+      max-height: 32px;
+      width: auto;
+      display: block;
+    }
+    @media (max-width: 767px) {
+      .partner-logo1 { max-height: 22px; }
+      .logo-bar { gap: 4px; }
+    }
+
+
+
+
+
+    /* 移动端垂直堆叠时头像底部留空 */
+    @media(max-width:767px){
+      .speaker img,.organizer img{margin-bottom:15px}
+    }
+  </style>
+</head>
+
+<body>
+
+<!-- ③ 顶部导航栏（Bootstrap .navbar） -->
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">InRobots Lab @ JLU</a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="navbar-main">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="/">Home</a></li>
+        <li><a href="/people/">People</a></li>
+        <li><a href="/research/">Research</a></li>
+        <li><a href="/publications/">Publications</a></li>
+        <li><a href="/presentations/">Presentations</a></li>
+        <li><a href="/datasets/">Datasets</a></li>
+        <li class="active"><a href="/pages_add/workshop.html">Workshop</a></li>
+        <li><a href="https://cvirlab.cn2.quickconnect.cn">Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- ④ 正文：放在 Bootstrap .container 中 -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+
+      <h1>IROS 2025 Workshop: Towards Sustainability and Resiliency of Field Robotics</h1>
+
+      <p>Deploying robots in the field without ethical considerations can cause ecological disruption. As we strive towards developing more autonomous and resilient robotic systems, it is imperative to ensure that these advancements do not come at the expense of ecological health. The integration of sustainable practices within resilient robotic systems represents a frontier that must be navigated with caution and foresight. By focusing on energy-efficient designs, eco-friendly material utilization, and strategies for minimizing ecological footprint during deployment, we can pave the way for a harmonious coexistence between robotics and the natural world.</p>
+
+      <p>The intersection of AI and robotics holds great promise for sustainable field deployment, aiming at minimize environmental impact while optimizing resource use across multiple domains, such as agricultural automation, environmental monitoring, disaster response, and mining. In light of this, bringing together experts from academia and industry, we aim to address scientific and technical questions such as: How can AI-powered robots enhance ecological sustainability in field applications? What materials and designs are most conducive to reducing the environmental impact of robotic systems? How can we trade off the resiliency in swarm robotics and potential increase in material usage? By fostering interdisciplinary dialogue and innovation, our workshop seeks to contribute to the development of robotic systems that are not only technologically advanced but also environmentally responsible.</p>
+
+      <!-- ---------- Important Dates ---------- -->
+      <h2>Important dates</h2>
+      <ul>
+        <li>Paper submission deadline: <strong>Sept, 10th, 2025</strong></li>
+        <li>Notification of acceptance: <strong>Sept, 30th, 2025</strong></li>
+        <li>Workshop date: <strong>Oct, 20th, 2025</strong></li>
+      </ul>
+
+      <!-- ---------- Call for Papers ---------- -->
+      <h2>Call for papers</h2>
+      <p>The workshop topics include, but are not limited to:</p>
+      <ul>
+        <li>Agriculture</li><li>Construction</li><li>Forestry</li>
+        <li>Healthcare</li><li>Intelligent Transportation Systems</li>
+        <li>Marine Robotics</li><li>Mining</li>
+        <li>Search and Rescue</li><li>Space Exploration</li>
+      </ul>
+
+      <!-- ---------- Submission Info ---------- -->
+      <h2>Submission Information</h2>
+      <ul>
+        <li>All the paper should be submited by the <a href="https://easychair.org/conferences?conf=2025irosworkshoptsrf">EasyChair</a>.</li>
+        <li>Posters are without format restrictions. The selected authors will deliver a 5-minute pitch+poster display.</li>
+        <li>Each submission will be peer-reviewed by at least two members of the programcommittee.</li>
+      </ul>
+
+      <!-- ---------- Publication Partners ---------- -->
+      <h2>Publication Partners</h2>
+<!--      <p>Selected best submissions will be invited for full-length papers in the <em>Journal on Field Robotics</em>.</p>-->
+
+<!--            <p>
+      Selected best submissions will be honored the best poster award and invited to submit a full-length paper to a special issue of the <a href="https://onlinelibrary.wiley.com/journal/15564967">Journal on Field Robotics</a>.
+      </p>-->
+      <ul>
+        <li>The selected submissions will be honored the best poster award</li>
+        <li>The outstanding posters will be invited to submit a full-length paper to a special issue of the <a href="https://onlinelibrary.wiley.com/journal/15564967">Journal on Field Robotics</a>.</li>
+      </ul>
+      <!-- ---------- Keynote Speakers ---------- -->
+      <h2>Keynote Speakers</h2>
+
+      <!-- Speaker 1 -->
+      <div class="media speaker">
+        <div class="media-left">
+          <img class="media-object" src="/images/keynote/zkwang.jpg" alt="Prof. Zhongkui Wang">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Title: Soft Robotics for Agrifood applications</h4>
+          <h4>Zhongkui Wang</h4>
+          <em>Professor, Ritsumeikan University, Japan</em>
+          <ul>
+            <li> Prof. Zhongkui Wang received the Ph.D. degree in robotics from Ritsumeikan University, Kusatsu, Japan, in 2011. From 2011 to 2012 and 2012 to 2014, he was a Research Associate and a Postdoctoral Fellow, respectively, with Ritsumeikan University. During his Postdoc, he visited ETH Zurich for six months as a visiting scholar. From 2014-2019, he was an Assistant Professor with Ritsumeikan University. Since 2019, he became an Associate Professor with Ritsumeikan University. His research interests mainly include soft robotics, 4D printing, biomedical engineering, and automation in food industry and agriculture. </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Speaker 2 -->
+      <div class="media speaker">
+        <div class="media-left">
+          <img class="media-object" src="/images/keynote/mfwang.jpg" alt="Dr. Mingfeng Wang">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Title: Towards Specialised Robotic Systems in Challenging Environments</h4>
+          <h4>Mingfeng Wang</h4>
+          <em>Associate Professor, Brunel University of London, UK</em>
+          <ul>
+            <li> Dr. Mingfeng Wang is a Senior Lecturer (Associate Professor) in Robotics &amp; Autonomous Systems at the Department of Mechanical and Aerospace Engineering, Brunel University of London. Before joining Brunel, he was a Research Fellow (2017.08-2021.06) at the Rolls-Royce UTC in Manufacturing and On-Wing Repair, University of Nottingham (UK), and worked as a principal researcher on inspection and maintenance robotics for the aerospace and nuclear industry. Before this, he was a Senior Research Associate (2016.08-2017.08) at the National Centre for Precision Farming, Harper Adams University (UK), and worked on laser weeding robotics for organic farming.
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Speaker 3 -->
+      <div class="media speaker">
+        <div class="media-left">
+          <img class="media-object" src="/images/keynote/yfliu.jpg" alt="Dr. Mingfeng Wang">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Title:Key Technologies of Active Exoskeletons and Their Ground Testing Aimed at Long-term Lunar Habitation</h4>
+          <h4>Yanfang Liu</h4>
+          <em>Professor, Harbin Institute of Technology, China</em>
+          <ul>
+            <li>Dr. Yanfang Liu is a professor and doctoral supervisor in Harbin Institute of Technology. He was awarded the titles of National High-Level Young Talent, Distinguished Young Scholar of the Ministry of Industry and Information Technology, "Xiaomi" Young Scholar, and Young Science and Technology Award winner of Heilongjiang Province. He engaged in research on visual target recognition, pose measurement, positioning and tracking technology, autonomous intelligence of aerial vehicles, intelligent assembly and testing, mechatronics and its ground-based simulation testing, specialized wafer forming and precision sand-etching processing of specialized chips, etc. </li>
+
+          </ul>
+        </div>
+      </div>
+
+
+
+      <!-- Speaker 4 -->
+      <div class="media speaker">
+        <div class="media-left">
+          <img class="media-object" src="/images/keynote/yzhao.png" alt="Dr. Mingfeng Wang">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Title:Biomimetic Self Balancing Drilling Technology and Equipment</h4>
+          <h4>Yan Zhao</h4>
+          <em>Professor, Jilin University, China</em>
+          <ul>
+            <li>Dr. Yan Zhao is a professor in Jilin University. He research focus on underground energy storage technology, shallow geothermal energy utilization, coupled heat and mass transfer in downhole multiphase media, and technology/equipment for continental ultra-deep scientific drilling. </li>
+
+          </ul>
+        </div>
+      </div>
+
+      <!-- 如有更多讲者，复制上面的 media 块即可 -->
+
+      <!-- ---------- Organizers ---------- -->
+      <h2>Organizers</h2>
+
+
+      <!-- ---------- Organizers-1 ---------- -->
+      <div class="row">
+        <!-- Organizer 1 -->
+        <div class="col-sm-6 organizer media">
+          <div class="media-left">
+            <!-- /images/workshop/organizer/yang_gao.jpg -->
+            <img src="/images/workshop/ygao.png" alt="Yang Gao">
+          </div>
+          <div class="media-body">
+            <h4 class="media-heading">Yang Gao</h4>
+            <em>Professor, Hong Kong University of Science and Technology</em>
+          </div>
+        </div>
+
+
+
+      <!-- ---------- Organizers-2 ---------- -->
+
+      <div class="col-sm-6 organizer media">
+        <div class="media-left">
+          <!-- /images/workshop/organizer/zexu_zhang.jpg -->
+          <img src="/images/workshop/zxzhang.png" alt="Zexu Zhang">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Zexu Zhang</h4>
+          <em>Professor, Harbin Institute of Technology</em>
+        </div>
+      </div>
+
+      <!-- ---------- Organizers-3 ---------- -->
+
+      <div class="col-sm-6 organizer media">
+        <div class="media-left">
+          <!-- /images/workshop/organizer/meibao_yao.jpg -->
+          <img src="/images/workshop/yaomb.png" alt="Meibao Yao">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Meibao Yao</h4>
+          <em>Associate Professor, Jilin University</em>
+        </div>
+      </div>
+
+
+      <!-- ---------- Organizers-4 ---------- -->
+      <div class="col-sm-6 organizer media">
+        <div class="media-left">
+          <!-- /images/workshop/organizer/xueming_xiao.jpg -->
+          <img src="/images/workshop/xmxiao.png" alt="Xueming Xiao">
+        </div>
+        <div class="media-body">
+          <h4 class="media-heading">Xueming Xiao</h4>
+          <em>Associate Professor, Changchun University of Science and Technology</em>
+        </div>
+      </div>
+    </div>
+
+      <!-- 更多组织者同理 -->
+
+      <!-- ---------- Contact ---------- -->
+      <h2>Contact</h2>
+      <p>Dr. Xueming Xiao &lt;<a href="mailto:alexcapshow@cust.edu.cn">alexcapshow@cust.edu.cn</a>&gt;</p>
+
+      <!-- ---------- Partner Logos ---------- -->
+      <!-- ---------- Partner Logos ---------- -->
+      <h2>In Partnership With</h2>
+
+      <!-- ★ 第一行：4 个 logo ★ -->
+      <div class="logo-bar">
+        <img src="/images/workshop/logo/ieee.png" class="partner-logo1" alt="IEEE">
+        <img src="/images/workshop/logo/ieee-ras-logo.png" class="partner-logo1" alt="IEEE RAS">
+        <img src="/images/workshop/logo/jfr1.jpg" class="partner-logo1" alt="JFR">
+        <img src="/images/workshop/logo/cssr.jpg"  class="partner-logo" alt="CSSR">
+      </div>
+
+      <!-- ★ 第二行：4 个 logo ★ -->
+
+      <div class="logo-bar">
+        <img src="/images/workshop/logo/hkust.png" class="partner-logo" alt="HKUST">
+        <img src="/images/workshop/logo/hit.jpeg"  class="partner-logo" alt="HIT">
+        <img src="/images/workshop/logo/jlu.jpg"   class="partner-logo" alt="JLU">
+        <img src="/images/workshop/logo/cust.png"  class="partner-logo" alt="CUST">
+      </div>
+
+
+    </div><!-- /.col -->
+  </div><!-- /.row -->
+</div><!-- /.container -->
+
+<footer>
+  © 2021 Intelligent Robotics Lab @ JLU
+</footer>
+
+<!-- ⑤ Bootstrap JS（导航折叠等组件需要） -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js"></script>
+</body>
+</html>
